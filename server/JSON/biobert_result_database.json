@@ -1,0 +1,6009 @@
+{
+    "Anticholinergic toxicity": [],
+    "hemodynamic collapse": [
+        "adrenal crisis",
+        "pulmonary vascular congestion",
+        "cardiogenic shock",
+        "hemodynamic support",
+        "ovarian protection",
+        "vascular congestion",
+        "hypertensive crisis",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "Hypotension": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Patent foramen ovale": [],
+    "Afib": [
+        "AFib",
+        "AVf",
+        "Afib",
+        "-Afib",
+        "Rapid Afib",
+        "afib"
+    ],
+    "Diarrhea.": [
+        "Diarrhea"
+    ],
+    "Healthcare associated pneumonia": [
+        "Ventilator associated pneumonia"
+    ],
+    "HLD": [
+        "HLD",
+        "HL",
+        "HCAP",
+        "PVD",
+        "HAP",
+        "HAP coverage",
+        "TTP",
+        "HF",
+        "HA",
+        "HR control",
+        "CMP",
+        "HR",
+        "HTN",
+        "HRs recovering",
+        "TLS",
+        "HSV",
+        "HRS",
+        "HIT",
+        "APML",
+        "PEA",
+        "VRE"
+    ],
+    "Hypernatremia secondary to inability to take adequate water,": [
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure"
+    ],
+    "Right facial droop  - sedating medications": [
+        "Left phantom limb pain"
+    ],
+    "Atrial fibrillation (on coumadin)": [
+        "prevent deep vein thrombosis (blood clots)",
+        "A. flutter (atrial ectopy hybrid)",
+        "control your rapid atrial fibrillation",
+        "Acute on chronic renal failure",
+        "Atrial Fibrillation with RVR"
+    ],
+    "Carotid artery disease": [
+        "Coronary artery disease"
+    ],
+    "Diabetes.": [
+        "Diabetes",
+        "Diabetes type II",
+        "Diabetes mellitus II",
+        "Diabetes: Type II"
+    ],
+    "Primary diagnosis: change in mental status": [
+        "Mental status change",
+        "mental status changes"
+    ],
+    "Atrial Fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "s/p repair": [
+        "HRs recovering",
+        "questionable MI",
+        "lung CA",
+        "lip swelling",
+        "avoid resistance",
+        "low BP",
+        "possible pneumonia"
+    ],
+    "small bowel obstruction": [
+        "upper gastrointestinal bleed"
+    ],
+    "resolved with IV fluids": [
+        "IVC filter",
+        "blood in OG tube",
+        "fluid status",
+        "dressing changes"
+    ],
+    "Septic shock": [
+        "septic shock",
+        "Toxic shock syndrome with septic shock",
+        "Septic shock"
+    ],
+    "History of Hypertension": [],
+    "Abdominal Pain": [
+        "Abdominal Pain",
+        "Abdominal pain"
+    ],
+    "Polysubstance abuse": [
+        "Tobacco abuse"
+    ],
+    "Cerebellar lesion": [],
+    "Mucinous carcinoma of the ovary": [
+        "stage I mucinous carcinoma of the ovary",
+        "stage IIIA carcinosarcoma of the uterus"
+    ],
+    "therapeutic.": [
+        "HCT dropped",
+        "therapeutic anti-coagulation",
+        "questionable MI",
+        "lung CA",
+        "for CHF management",
+        "drug reaction",
+        "a potential LLL pneumonia",
+        "lip swelling",
+        "therapeutic PTT"
+    ],
+    "Carotid Artery Disease": [
+        "Coronary artery disease"
+    ],
+    "Acute Kidney Insuficiency": [
+        "Renal Insufficiency",
+        "Acute renal insufficiency",
+        "Acute Kidney Injury on chronic kidney disease",
+        "Acute Renal Failure",
+        "Acute Kidney Injury"
+    ],
+    "C-section": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "anxiety",
+        "anti-epileptic",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "maintenance",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "ruptured AAA": [],
+    "Hospital 7502**] hospital-acquired": [],
+    "back pain": [
+        "back pain",
+        "for chest pain",
+        "diffuse body pain",
+        "recurrent chest pain",
+        "musculoskeletal pain",
+        "pleuritic chest pain",
+        "leg pain",
+        "abdominal pain",
+        "pain relief",
+        "persistent abdominal pain",
+        "flank pain",
+        "breakthrough pain",
+        "severe back pain",
+        "low back pain",
+        "neck pain",
+        "pain management",
+        "Chronic back pain",
+        "neck/back pain",
+        "chest pain radiating to the jaw",
+        "for pain management",
+        "myofascial pain syndrome",
+        "low back pain s/p laminectomy",
+        "chronic pain",
+        "mouth pain",
+        "long-acting pain control",
+        "lumbar back pain",
+        "pain control",
+        "chest pain",
+        "chronic back pain",
+        "nerve pain",
+        "limb pain",
+        "chronic chest pain",
+        "mouth/throat pain"
+    ],
+    "Skin Tear/breakdown": [],
+    "other SVT (suspected AVNRT)": [
+        "A. flutter (atrial ectopy hybrid)",
+        "CAD with h/o MI",
+        "AF with RVR",
+        "h/o TIA symptoms"
+    ],
+    "Vancomycin Resistant Enterococcus Bacteremia": [],
+    "Bipolar disorder": [
+        "Bipolar disorder",
+        "Severe bipolar disorder",
+        "Schizoaffective disorder"
+    ],
+    "hypocalcemia": [
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "for hypokalemia",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypotensive",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "significant hypothyroidism",
+        "hypocoaguable",
+        "hypotension",
+        "hypoxia",
+        "hypothyroidism",
+        "hypoglycemic"
+    ],
+    "Doudenal perforation s/p ERCP": [],
+    "squamous cell carcinoma": [
+        "hepatocellular carcinoma",
+        "non small cell lung cancer lung carcinoma"
+    ],
+    "a fib": [
+        "a. fib",
+        "a.fib",
+        "A fib",
+        "afib"
+    ],
+    "Urinary retention": [
+        "Urine output",
+        "urinary retention",
+        "Urianary tract infection",
+        "urinary infection",
+        "Urinary tract infection"
+    ],
+    "Primary -": [
+        "secondary prevention"
+    ],
+    "Asthma/COPD exacerbation": [
+        "Asthma",
+        "asthma exacerbation",
+        "COPD exacerbation",
+        "Asthma Exacerbation"
+    ],
+    "rapid atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "ventricular fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "hypertension": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypertensive",
+        "hypotensive",
+        "hyperglycemia",
+        "pulmonary hypertension",
+        "hypotension",
+        "hypertensive crisis",
+        "hypothyroidism"
+    ],
+    "Alcoholism": [
+        "Alcoholism"
+    ],
+    "HL": [
+        "HLD",
+        "HL",
+        "HCAP",
+        "HAP",
+        "HF",
+        "HA",
+        "HR control",
+        "HR",
+        "HRs recovering",
+        "HRS",
+        "HIT"
+    ],
+    "DMII": [
+        "DM II",
+        "DM1",
+        "DM2",
+        "DM",
+        "DI/endocrine",
+        "DMII",
+        "DIC",
+        "DI"
+    ],
+    "thought secondary to hypothyroidism": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "primary hypothyroidism",
+        "significant hypothyroidism"
+    ],
+    "Sellar and suprasellar mass": [],
+    "Aspiration Pneumonia": [
+        "Aspiration pneumonia"
+    ],
+    "perm. pacemaker placement": [
+        "septic joints",
+        "heart burn",
+        "device infection",
+        "sternal drainage",
+        "heart protection",
+        "pacemaker pocket infection",
+        "dressing changes"
+    ],
+    "Diabetes": [
+        "Type II Diabetes",
+        "Diabetes"
+    ],
+    "placement in [**2106-7-8**]": [
+        "washout of his system",
+        "promote productive coughing",
+        "GPCs in chains",
+        "poor PO intake",
+        "blood in OG tube",
+        "bleeding from I&D site"
+    ],
+    "anticoagulated": [
+        "chronic anticoagulation",
+        "prophylactically anticoagulated",
+        "anticoagulation",
+        "anticoagulated"
+    ],
+    "Systemic Lupus Erythematosus": [],
+    "dysgerminoma of the ovary": [
+        "stage I mucinous carcinoma of the ovary",
+        "carcinoma of lung",
+        "stage IIIA carcinosarcoma of the uterus"
+    ],
+    "Septic Shock": [
+        "septic shock",
+        "Septic shock"
+    ],
+    "with findings of C5-6 retrolistesis": [
+        "RLL PNA consistent with evolving PNA"
+    ],
+    "NSTEMI(+troponin 1.19)": [],
+    "Endocarditis": [
+        "endocarditis"
+    ],
+    "idiopathic thrombocytopenic purpura": [],
+    "Benign Prostatic Hypertrophy": [],
+    "Coronary artery disease s/p myocardial infarction": [
+        "coronary artery disease",
+        "post myocardial infarction",
+        "Coronary artery disease"
+    ],
+    "Acute renal failure requiring CVVH": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "Renal failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "retroperitoneal AAA": [
+        "urinary traction infection",
+        "retroperitoneal hematoma",
+        "intravascularly dry",
+        "gastrointestinal bleed",
+        "flank pain",
+        "narcotic withdrawal",
+        "hemorrhoid pain",
+        "rectal CA",
+        "sternal drainage",
+        "incisional pain"
+    ],
+    "Myopathy/polyneuropathy of critical illness": [],
+    "Psoriatic arthritis": [
+        "psoriatic arthritis",
+        "Psoriasis with Arthropathy",
+        "Psoriatic arthritis",
+        "Rheumatoid arthritis"
+    ],
+    "Hyponatremia": [
+        "Hypotension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "hyponatremia",
+        "Hyponatremia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Lymphedema with superimposed cellulitis and unremitting pain": [],
+    "expired": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "rejection",
+        "gas",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "replacement",
+        "coughing"
+    ],
+    "metastatic breast cancer": [
+        "nonsmall cell lung cancer with brain metastasis",
+        "stage I breast cancer",
+        "metastatic adenocarcinoma",
+        "metastatic disease",
+        "metastatic melanoma",
+        "Metastatic breast cancer to the brain"
+    ],
+    "Thoracic compression fx": [],
+    "Septic knee joints": [
+        "septic joints",
+        "foot infection",
+        "Septic shock",
+        "infected knee"
+    ],
+    "Multifocal pneumonia": [
+        "multifocal pneumonia",
+        "Pulmonary tuberculosis",
+        "worsening multifocal pneumonia",
+        "a multifocal pneumonia",
+        "possible multifocal pneumonia"
+    ],
+    "atrial tachycardia": [
+        "sinus tachycardic",
+        "ventricular tachycardia",
+        "fasicular ventricular tachycardia",
+        "tachycardic",
+        "tachycardia",
+        "atrial tachycardia",
+        "Atrial tachycardia"
+    ],
+    "ACOMM ANEURYSM": [],
+    "histroy of poly neuropathies": [],
+    "Supratherapeutic INR": [
+        "subtherapeutic INR",
+        "supratherapeutic INR",
+        "therapeutic INR"
+    ],
+    "Pancytopenia(anemia,leukopenia,thrombocytopenia)": [
+        "Pancytopenia"
+    ],
+    "hyperchloremic metabolic acidosis 2nd to NS infusion": [
+        "metabolic acidosis",
+        "RLL PNA consistent with evolving PNA",
+        "Afib/flutter with HR in 100s",
+        "high potassium levels",
+        "even to negative fluid balance",
+        "edema from fluid retention",
+        "hyponatremia to 120",
+        "afib with a rapid ventricular response",
+        "and HTN etiology",
+        "worsening lactic acidosis",
+        "patchy infiltates concerning for biliary sepsis",
+        "hyperglycemia with FS 470s",
+        "blood in OG tube",
+        "to control phosphorus because of kidney failure",
+        "to prevent embolic stroke from known LV thrombus",
+        "to control calcium and phosphorus because of kidney failure",
+        "poor clearance of insulin in setting of renal failure",
+        "responsive to sternal rub only",
+        "narcotic induced respiratory distress",
+        "to treat the acute cellular rejection"
+    ],
+    "Hepatitis C cirrhosis": [
+        "HCV cirrhosis",
+        "Hepatitis C Cirrhosis",
+        "Cirrhosis"
+    ],
+    "R basilic DVT": [
+        "right peroneal DVT",
+        "R peroneal DVT",
+        "DVT PPx",
+        "RLE DVT",
+        "h/o DVT"
+    ],
+    "Shingles": [
+        "Shingles"
+    ],
+    "Primary": [
+        "screaming",
+        "fever",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "anti-epileptic",
+        "seized",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "CP",
+        "cough",
+        "depressed",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "restless",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "withdrawal",
+        "anti-coagulation",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation"
+    ],
+    "anemia": [
+        "profound anemia",
+        "anemic",
+        "Anemia",
+        "symptomatic anemia",
+        "chronic anemia",
+        "anemia",
+        "occult anemia"
+    ],
+    "Pancreatitis": [],
+    "PRIMARY: hematemesis": [],
+    "Carcinosarcoma of the uterus": [
+        "stage I mucinous carcinoma of the ovary",
+        "stage IIIA carcinosarcoma of the uterus"
+    ],
+    "s/p Right rotator cuff repair": [],
+    "CVL wire coiled in IVC filter": [
+        "clot in right main pulmonary artery and branch arteries in the LLL."
+    ],
+    "bradycardia and possible pneumonia": [
+        "adrenal crisis",
+        "potassium was elevated",
+        "dyspnea and cough",
+        "high potassium levels",
+        "narcotic withdrawal",
+        "agitation anxiety",
+        "edema from fluid retention",
+        "possible PCP infection",
+        "possible bacterial suprainfection",
+        "hyponatremia to 120",
+        "afib with a rapid ventricular response",
+        "hypoglycemia protocol",
+        "cardiogenic shock",
+        "worsening infection",
+        "hypertensive crisis",
+        "possible pneumonia",
+        "narcotic induced respiratory distress"
+    ],
+    "COPD exacerbation": [
+        "COPD exacurbation",
+        "asthma exacerbation",
+        "COPD exacerbation",
+        "COPD with exacerbation",
+        "COPD"
+    ],
+    "Hospital 2182**]": [],
+    "CAD": [
+        "CAP",
+        "CAD s/p CABG",
+        "CAD",
+        "h/o CAD"
+    ],
+    "osteomyelitis and discitis": [
+        "aspergillus and coccidiomycosis coverage",
+        "cervical osteomyelitis",
+        "superficial phlebitis",
+        "degenerative disc disease",
+        "fungal osteomyelitis",
+        "degenerative joint disease"
+    ],
+    "Systolic Heart failure": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "heart failure",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Systolic CHF",
+        "Acute diastolic heart failure"
+    ],
+    "Bleeding around foley catheter": [],
+    "Balantitis": [
+        "Balantitis"
+    ],
+    "Neutropenia (low white blood count).": [],
+    "Suspected sepsis with hypothermia": [
+        "Toxic shock syndrome with septic shock"
+    ],
+    "Type A Aortic Dissection": [],
+    "post operative pro long intubation - hypoxia": [],
+    "laparotomy x 2 for ovarian cysts": [
+        "ruptured ovarian cyst"
+    ],
+    "Thyroid Cancer s/p resection and radioactive iodine": [],
+    "Abnormal exercise tolerance test": [],
+    "Hypokalemia (low potassium level).": [
+        "potassium was elevated",
+        "low urine output",
+        "blood glucose levels were >200",
+        "Hct was 21",
+        "Hct was low enough",
+        "replete this hormone which helped normalize your sodium levels",
+        "uric acid levels were high",
+        "high potassium levels",
+        "persistently elevated uric acid",
+        "BP was elevated",
+        "decrease serum uric acid",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "low BP",
+        "Hct was 26"
+    ],
+    "End Stage Renal Disease on hemodialysis": [],
+    "Asthma exacerbation": [
+        "Asthma",
+        "asthma exacerbation",
+        "COPD exacerbation",
+        "Asthma Exacerbation"
+    ],
+    "Lower GI bleeding c/b anticoagulation": [
+        "lower GI bleed"
+    ],
+    "Acute-on-chronic anemia with guaiac + stools and no further GI": [],
+    "Febrile Neutropenia": [
+        "Febrile neutropenia",
+        "Febrile Neutropenia"
+    ],
+    "Pacemaker site infection": [
+        "Device infection",
+        "pacemaker pocket infection"
+    ],
+    "Generalized seizure": [],
+    "Left above the knee amputation": [],
+    "exacerbation": [
+        "asthma exacerbation"
+    ],
+    "Atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "NSAID induced Gastric Ulcers": [],
+    "left L4/L5 TP fx": [],
+    "Cardiomyopathy": [
+        "Cardiomyopathy"
+    ],
+    "Hyperlipidemia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Liver failure due to drug rxn": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "Toxic shock syndrome with septic shock",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "Gastric ulcer related to NSAIDS,": [
+        "uppger GI bleeding from a stomach ulcer"
+    ],
+    "Volume (fluid) overload": [
+        "fluid overload",
+        "volume overload",
+        "fluid overloaded",
+        "Volume depletion"
+    ],
+    "R Frontal Mass": [
+        "R flank pain"
+    ],
+    "smal bowel obstruction": [],
+    "Atrial fibrillation with rapid ventricular rate": [
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Atrial Fibrillation with RVR",
+        "afib with a rapid ventricular response",
+        "long ventriculoperitoneal tachycardiac narrow complex at 139",
+        "rapid atrial fibrillation"
+    ],
+    "pump with endoscopic left greater saphenous vein harvesting and": [
+        "erythema and tenderness around the left SVG harvest site",
+        "clot in right main pulmonary artery and branch arteries in the LLL.",
+        "clot in right main pulmonary artery and branch arteries in the LLL"
+    ],
+    "Fasciular Ventricular Tachycardia": [
+        "Supraventricular Tachycardia"
+    ],
+    "Hypothyroid related to amiodarone": [],
+    "NSTEMI": [],
+    "enterobacter septicemia due to cholangitis": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "biliary sepsis",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "Hypokalemia": [
+        "Hypotension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "hypokalemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Acute congestive heart failure": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "Mechanical heart valve",
+        "symptoms of congestive heart failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Chronic AF",
+        "diastolic heart failure",
+        "Acute renal insufficiency",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "Acute lung injury",
+        "uncompensated congestive heart failure",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "secondary to": [
+        "severe infection",
+        "community-acquired pneumonia",
+        "secondary prevention",
+        "possible pneumonia",
+        "bacterial infection"
+    ],
+    "s/p rigid bronch": [
+        "s/p mechanical MVR"
+    ],
+    "postop atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "ventricular fibrillation",
+        "Atrial Fibrillation with RVR",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "duodenal and gastric ulcers complicated by bleeding.": [
+        "upper gastrointestinal bleed",
+        "infection in your GI tract",
+        "prevent deep vein thrombosis (blood clots)",
+        "ulcer in the cardia",
+        "peptic ulcer disease",
+        "uppger GI bleeding from a stomach ulcer",
+        "gastric ulcers",
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "gastric varices",
+        "gastrointestinal bleed",
+        "presumed diabetic gastroparesis",
+        "erythema and tenderness around the left SVG harvest site",
+        "patchy infiltates concerning for biliary sepsis",
+        "bleeding ulcer",
+        "gastric or pancreatico/biliary tumor",
+        "bleeding pyloric ulcer",
+        "to prevent embolic stroke from known LV thrombus",
+        "bleeding ulcers"
+    ],
+    "shoulders and knees": [],
+    "Altered mental status": [
+        "Mental status change",
+        "mental status changes"
+    ],
+    "History of GI Bleed (extensive) in [**2106-7-8**] when": [],
+    "Kidney Stones": [],
+    "Encephalopathy": [
+        "encephalopathy",
+        "encephalitis"
+    ],
+    "Primary: pulmonary embolism": [
+        "pulmonary embolism",
+        "Pulmonary Embolism",
+        "pulmonary embolus",
+        "Pulmonary emboli",
+        "pulmonary embolism in the right lower lobe",
+        "Pulmonary embolism"
+    ],
+    "L back melanoma": [],
+    "Primary Diagnosis": [],
+    "DVT (deep vein thrombosis": [
+        "prevent deep vein thrombosis (blood clots)",
+        "deep vein thrombosis",
+        "Deep vein thrombosis",
+        "deep venous thrombosis"
+    ],
+    "with acute blood loss anemia": [
+        "profound anemia",
+        "symptomatic anemia",
+        "severe symptomatic anemia",
+        "chronic anemia",
+        "indeterminate to mild acute cellular rejection"
+    ],
+    "ascites": [
+        "ascites"
+    ],
+    "abdominal pain": [
+        "back pain",
+        "for chest pain",
+        "upper gastrointestinal bleed",
+        "diffuse body pain",
+        "recurrent chest pain",
+        "musculoskeletal pain",
+        "pleuritic chest pain",
+        "leg pain",
+        "gastrointestinal bleed",
+        "sharp chest pains",
+        "abdominal pain",
+        "pain relief",
+        "persistent abdominal pain",
+        "flank pain",
+        "breakthrough pain",
+        "rectal pain",
+        "severe back pain",
+        "low back pain",
+        "neck pain",
+        "chronic left flank pain",
+        "pain management",
+        "left sided plank pain",
+        "abdominal discomfort",
+        "neck/back pain",
+        "left eye pain",
+        "chest pain radiating to the jaw",
+        "urinary symptoms",
+        "myofascial pain syndrome",
+        "severe pain",
+        "chronic pain",
+        "gassy pain",
+        "mouth pain",
+        "excruciating flank pain",
+        "lumbar back pain",
+        "pain control",
+        "chest pain",
+        "nerve pain",
+        "limb pain",
+        "her pain",
+        "chronic chest pain",
+        "mouth/throat pain"
+    ],
+    "IVC thrombus": [
+        "LV thrombus",
+        "IVC thrombi",
+        "to prevent embolic stroke from known LV thrombus",
+        "IVC thombus"
+    ],
+    "Venostasis": [],
+    "Capillary Leak Syndrome secondary to High dose IL-2": [
+        "Acute Blood Loss Anemia due to Gastric Ulcers with Bleeding"
+    ],
+    "Stable angina": [],
+    "MSSA": [
+        "MSSA infection",
+        "MRSA infection",
+        "MSSA",
+        "MSRA"
+    ],
+    "L4-L5 osteomyelitis": [],
+    "depression": [
+        "nausea/",
+        "confusion",
+        "seizure",
+        "Depression",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "fluid",
+        "chronic",
+        "BP",
+        "drainage",
+        "stroke",
+        "nausea",
+        "CP",
+        "depressed",
+        "wound",
+        "agitated",
+        "RA",
+        "depression",
+        "paranoid",
+        "restless",
+        "MG",
+        "dental",
+        "headache",
+        "withdrawal",
+        "groin",
+        "paralyzed",
+        "heart",
+        "diabetes",
+        "inflammation"
+    ],
+    "Infected right perinephric fluid collection": [],
+    "Anasarca": [
+        "Anasarca"
+    ],
+    "Chief cause of death: critical AS": [],
+    "mesenteric ischemia": [
+        "ischemia"
+    ],
+    "pulmonary embolism": [
+        "pulmonary embolism",
+        "Pulmonary Embolism",
+        "pulmonary embolus",
+        "Pulmonary embolism"
+    ],
+    "Pneumonia.": [
+        "Pulmonary tuberculosis",
+        "Pneumonia"
+    ],
+    "Sepsis": [
+        "Sepsis"
+    ],
+    "AML": [
+        "AML",
+        "ALL"
+    ],
+    "inflammatory)": [
+        "iron deficit",
+        "respiratory fatigue",
+        "severe infection",
+        "promote productive coughing",
+        "chronic anxiety",
+        "lip swelling",
+        "avoid resistance",
+        "low BP",
+        "inflammation",
+        "possible pneumonia"
+    ],
+    "Cardiogenic Shock": [
+        "cardiogenic shock"
+    ],
+    "Alcoholic Cirrhosis": [
+        "Hepatitis C Cirrhosis",
+        "Cirrhosis"
+    ],
+    "Gastrointestinal bleed of undetermined origin": [],
+    "L back melanoma excision with ax LN": [
+        "Afib with RVR",
+        "A. Fib with RVR"
+    ],
+    "delerium / acute / medication reaction": [],
+    "migraine headache": [
+        "musculoskeletal pain",
+        "myofascial pain syndrome",
+        "mouth pain",
+        "migraine",
+        "cluster headache",
+        "migraines",
+        "mouth/throat pain"
+    ],
+    "History of glaucoma & cataracts": [],
+    "Primary: Likely anaphylactic reaction to contrast": [],
+    "blood clot in right leg).": [
+        "bacteria in your blood",
+        "leg swelling",
+        "bright red blood in her stool",
+        "prevent deep vein thrombosis (blood clots)",
+        "ulcer in the cardia",
+        "clot in your veins",
+        "skin infection of the legs",
+        "fluid in your legs",
+        "blood clot",
+        "blood clots)",
+        "a potential blood clot in your lungs",
+        "pulmonary embolism in the right lower lobe",
+        "chronic left flank pain",
+        "left sided plank pain",
+        "ulceration at the PEG tube site that was cauterized",
+        "erythema and tenderness around the left SVG harvest site",
+        "and calf veins",
+        "blood in OG tube",
+        "left upper lobe pneumonia",
+        "clot in right main pulmonary artery and branch arteries in the LLL.",
+        "clot in right main pulmonary artery and branch arteries in the LLL",
+        "right upper quadrant pain",
+        "bright red blood in your bowel",
+        "infection in your blood"
+    ],
+    "History of Heavy Tobacco Abuse": [],
+    "Temporal arteritis versus polymyalgia rheumatica on prednisone": [
+        "Psoriatic arthritis",
+        "Polymyalgia rheumatica"
+    ],
+    "Mucinous adenocarcinoma of unknown primary": [],
+    "Emphysema": [],
+    "Suspected Drug Reaction/Anaphylaxis": [],
+    "HTN": [
+        "HLD",
+        "persistent HTN",
+        "uncontrolled HTN",
+        "HAP",
+        "HF",
+        "HA",
+        "HR",
+        "HTN",
+        "HRS",
+        "HIT"
+    ],
+    "malnutrition": [],
+    "\"work-up secondary to familys desire for minimal intervention\"": [
+        "concern for sepsis"
+    ],
+    "Symptomatic bradycardia.": [],
+    "SECONDARY:": [],
+    "Junctional rhythm induced by beta-blocker toxicity": [
+        "junctional rhythm in the 20s"
+    ],
+    "peritonitis": [
+        "pyelonephritis"
+    ],
+    "s/p left MCA stroke with persistent hemiparesis and aphasia": [],
+    "postop atelectasis": [],
+    "Laryngeal spasm": [],
+    "Neutropenic Colitis": [
+        "Neutropenic colitis",
+        "Ulcerative Colitis",
+        "Febrile Neutropenia"
+    ],
+    "Primary: Diverticular bleed": [],
+    "Right lower extremity venous thrombosis now s/p Common Iliac": [
+        "uppger GI bleeding from a stomach ulcer",
+        "Right basilic vein thrombosis",
+        "right lower extremity DVT"
+    ],
+    "lap chole": [],
+    "Central nervous system lymphoma": [],
+    "\"Alzheimers dementia\"": [
+        "\"Bells palsy\"",
+        "\"Graves disease\"",
+        "\"Burkitts lymphoma\"",
+        "\"Crohns Disease\"",
+        "\"Crohns disease\"",
+        "\"Parkinsons\"",
+        "\"Parkinsons disease\"",
+        "\"TIAs\""
+    ],
+    "VAP": [
+        "VAP"
+    ],
+    "Cycle #1 TCF (docetaxel": [],
+    "Hematuria likely from a bleeding kidney metastasis": [
+        "uppger GI bleeding from a stomach ulcer",
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head"
+    ],
+    "pauci-immune glomerulonephritis with p-anca positive": [
+        "a multifocal pneumonia",
+        "possible multifocal pneumonia"
+    ],
+    "Hypotension in the setting of narcotic overdose": [
+        "sepsis in the setting of neutropenia"
+    ],
+    "Anxiety Disorder": [],
+    "Tracheostomy": [
+        "Trabeculectomy"
+    ],
+    "complicated urinary tract infection": [
+        "upper gastrointestinal bleed",
+        "urinary traction infection",
+        "infection in your GI tract",
+        "the UTI",
+        "low urine output",
+        "biliary sepsis",
+        "respiratory infection",
+        "persistent abdominal pain",
+        "urinary tract infection",
+        "urinary retention",
+        "Urianary tract infection",
+        "possible community acquired pneumonia",
+        "urinary infection",
+        "chronic UTI",
+        "urinary symptoms",
+        "positive urinary tract infection",
+        "diverticular bleed",
+        "complicated UTI",
+        "Urinary tract infection",
+        "complicated (male) UTI",
+        "viral upper respiratory tract infection",
+        "bacterial infection"
+    ],
+    "T2 compression fx": [],
+    "secondary:  diabetes": [
+        "questionable MI",
+        "promote productive coughing",
+        "GPCs in chains",
+        "BP support",
+        "poor PO intake",
+        "LLL pneumonia",
+        "community-acquired pneumonia",
+        "healthcare-associated pneumonia",
+        "CAP organisms",
+        "secondary prevention",
+        "avoid resistance",
+        "low BP",
+        "possible pneumonia"
+    ],
+    "VRE UTI": [
+        "the UTI",
+        "UTI",
+        "complicated UTI",
+        "a UTI"
+    ],
+    "Hypoxia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypoxia",
+        "Hypothermia",
+        "Hyperglycemia"
+    ],
+    "Atrial fib": [],
+    "Diabetes mellitus with complications": [
+        "Diabetes type II",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus II",
+        "Diabetes mellitus type 2",
+        "Diabetes: Type II",
+        "Diabetes mellitus"
+    ],
+    "Post operative transfusion": [],
+    "Secondary: Hypertension": [],
+    "Right pneumothorax-Chest tube inserted.": [],
+    "Aspergillosis": [
+        "Pulmunary aspergillosis"
+    ],
+    "endoscopic right greater saphenous vein harvesting on [**2137-9-19**]": [],
+    "Bipolar Disorder": [
+        "Bipolar disorder"
+    ],
+    "agressive physical therapy and splinting": [],
+    "resonstructions-failed,s/p left BKA [**4-20**]": [
+        "urinary traction infection",
+        "Afib with RVR",
+        "A. Fib with RVR",
+        "her heart valve"
+    ],
+    "Hypercarbic respiratory failure": [
+        "Hypercarbic respiratory distress",
+        "Acute renal failure",
+        "respiratory fatigue",
+        "Respiratory failure",
+        "respiratory status",
+        "Acute diastolic heart failure",
+        "poor respiratory effort",
+        "Acute lung injury",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "right L5 TP fx": [],
+    "Diabetes mellitus type II": [
+        "Type II Diabetes",
+        "diabetes mellitus",
+        "Diabetes type II",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus II",
+        "Diabetes mellitus type 2",
+        "Diabetes: Type II",
+        "Diabetes mellitus"
+    ],
+    "Traumatic Skin Rash": [],
+    "ASA allergy s/p successful desensitization": [],
+    "R Foot drop- prior to hospitalization": [
+        "ARF on CRF"
+    ],
+    "app": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "gas",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "\"Burkitts lymphoma\"": [
+        "\"Burkitts Lymphoma\"",
+        "\"non-Hodgkins lymphoma\"",
+        "\"Bells palsy\"",
+        "\"Graves disease\"",
+        "\"Non-Hodgkins T cell lymphoma\"",
+        "\"presumed Wernickes\"",
+        "\"Burkitts lymphoma\"",
+        "\"Crohns Disease\"",
+        "\"Crohns disease\"",
+        "\"Parkinsons\"",
+        "\"Crohns\"",
+        "\"Parkinsons disease\""
+    ],
+    "stopped": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "seizure",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "cough",
+        "agitated",
+        "paranoid",
+        "restless",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation",
+        "coughing"
+    ],
+    "dxn": [],
+    "upper gastrointestinal bleed": [
+        "upper gastrointestinal bleed",
+        "infection in your GI tract",
+        "peptic ulcer disease",
+        "gastrointestinal bleed",
+        "abdominal pain",
+        "urinary tract infection",
+        "abdominal discomfort",
+        "lower GI bleed",
+        "diverticular bleed",
+        "Upper GI bleed",
+        "gastric or pancreatico/biliary tumor"
+    ],
+    "Pneumonia = Community aquired": [
+        "Hospital Acquired Pneumonia"
+    ],
+    "Mucositis.": [
+        "Mucositis"
+    ],
+    "NSTEMI in setting of acute illness": [
+        "sepsis in the setting of neutropenia"
+    ],
+    "HCV/HCC": [
+        "HCV cirrhosis",
+        "HCV"
+    ],
+    "s/p Abdominal Aortic Aneurysm Repair [**2152-6-26**]": [],
+    "Bilateral MSSA empyemas": [
+        "MRSA lung abscess",
+        "MRSA bacteremia",
+        "Peripheral IV-associated MSSA bacteremia",
+        "MSSA bacteremia"
+    ],
+    "Free air on CXR s/p G-tube placement": [
+        "O2sat 77% on RA",
+        "Afib/flutter with HR in 100s"
+    ],
+    "Hartmanns\"": [],
+    "Chronic obstructive pulmonary disease flare": [
+        "Chronic diastolic heart failure",
+        "Obstructive/restrictive lung disease",
+        "chronic obstructive pulmonary disease",
+        "chronic obstructive pulmonary disease flare",
+        "Acute diastolic heart failure",
+        "restrictive lung disease",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Right knee osteoarthritis": [],
+    "Vagnitis": [],
+    "Primary: asthma exacerbation": [
+        "COPD exacerbation",
+        "COPD with exacerbation"
+    ],
+    "Post operative hypovolemia": [],
+    "Hypothermia": [
+        "Hyperkalemia",
+        "Hypoxia",
+        "Hypothermia",
+        "Hyperglycemia"
+    ],
+    "COPD": [
+        "COPD exacurbation",
+        "COPD exacerbation",
+        "severe COPD",
+        "COPD flare",
+        "COPD"
+    ],
+    "Abdominal wall hematoma": [],
+    "benign": [],
+    "Bilateral Charcot Foot with multiple surgeries": [],
+    "Hypopharyngeal squamous cell carcinoma (throat cancer).": [
+        "hypopharyngeal SCC",
+        "non small cell lung cancer lung carcinoma"
+    ],
+    "decrease platelets": [
+        "prevent deep vein thrombosis (blood clots)",
+        "uremic platelets",
+        "decrease HR"
+    ],
+    "alcalinization w/ Bicarb drip,": [
+        "Afib with RVR",
+        "A. Fib with RVR"
+    ],
+    "Acute renal failure": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Respiratory failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "renal failure",
+        "Renal failure",
+        "Acute lung injury",
+        "renal transplant",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "Cervical and lumbar epidural abscesses": [],
+    "Re-Exploration for bleeding following CABG": [],
+    "Acute on chronic systolic  heart failure": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "Acute on chronic renal failure",
+        "heart failure",
+        "Chronic AF",
+        "diastolic heart failure",
+        "Systolic CHF",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Acute on Chronic Renal Failure": [
+        "Acute on chronic renal failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "hypokalemia / hypomagnesium": [
+        "hyperkalemia",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "for hypokalemia",
+        "Hypokalemia",
+        "hypoglycemia",
+        "known hyperkalemia",
+        "hypokalemia",
+        "hypothyroid",
+        "hyponatremia",
+        "hypocoaguable",
+        "hypotension",
+        "hypothyroidism",
+        "her hypotension"
+    ],
+    "Non ST Elevation Myocardial Infarction": [],
+    "T-tube removal": [
+        "HD stability",
+        "TC seizure",
+        "lip swelling"
+    ],
+    "Pericardial effusion": [],
+    "Status Asthmaticus": [],
+    "Acute Myelogenous Leukemia": [
+        "Acute leukemia",
+        "myelogenous leukemia",
+        "acute myelogenous leukemia"
+    ],
+    "Non small cell lung cancer": [
+        "nonsmall cell lung cancer with brain metastasis",
+        "non small cell lung cancer lung carcinoma",
+        "non-small cell lung cancer"
+    ],
+    "steroid induced DM": [
+        "narcotic induced respiratory distress"
+    ],
+    "fever": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "rejection",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "paranoid",
+        "infection",
+        "AIDS",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "Metabolic acidosis": [],
+    "Osteoarthritis of hands": [],
+    "Thyroid nodule": [],
+    "Gastrointestinal bleed": [
+        "gastrointestinal bleed",
+        "Epigastric discomfort",
+        "Upper GI bleed",
+        "Gastrointestinal bleed"
+    ],
+    "Primary diagnoses:": [],
+    "Primary diagnosis:": [],
+    "with": [],
+    "Hypoalbuminemia with anasarca": [],
+    "Esophagitis": [
+        "Esophagitis"
+    ],
+    "Post operative confusion": [],
+    "line infection": [
+        "a line infection",
+        "line infection",
+        "yeast infection",
+        "ear wax",
+        "lung CA",
+        "line flush",
+        "flat lesions",
+        "breast CA",
+        "foot infection",
+        "LLL pneumonia",
+        "lip swelling",
+        "blood thinner",
+        "healthcare-associated pneumonia",
+        "Line infection",
+        "avoid resistance"
+    ],
+    "Right acetabular rim fracture": [],
+    "Gastroesophageal reflux": [
+        "Gastroesophageal reflux"
+    ],
+    "Psuedomonas UTI": [
+        "Stenotrophomonas PNA",
+        "gram-negative UTI",
+        "Pseudomonas UTI",
+        "klebsiella UTI"
+    ],
+    "s/p Back surgery": [],
+    "EDH": [],
+    "cisplatin": [],
+    "stroke": [
+        "seizure",
+        "stroke",
+        "CP",
+        "depression",
+        "MG",
+        "diabetes"
+    ],
+    "Acute Blood Loss Anemia": [
+        "Acute Blood Loss Anemia due to Gastric Ulcers with Bleeding"
+    ],
+    "Gastrointestinal Bleed": [
+        "Retroperitoneal Bleed",
+        "GI Bleed"
+    ],
+    "Rectal cancer": [
+        "Thyroid cancer",
+        "Rectal CA"
+    ],
+    "Renal failure": [
+        "worsening renal function",
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Renal Insufficiency",
+        "kidney function",
+        "Acute renal insufficiency",
+        "renal failure",
+        "Renal failure",
+        "renal transplant",
+        "acute on chronic renal failure"
+    ],
+    "Hypoglycemia": [
+        "Hypotension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "upper GI bleeding": [
+        "upper gastrointestinal bleed",
+        "infection in your GI tract",
+        "decrease future risks of GI bleeding",
+        "GI bleed",
+        "peptic ulcer disease",
+        "GI PPx",
+        "gastrointestinal bleed",
+        "abdominal pain",
+        "GI protection",
+        "urinary tract infection",
+        "abdominal discomfort",
+        "lower GI bleed",
+        "urinary infection",
+        "diverticular bleed",
+        "Upper GI bleed",
+        "stomach irritation"
+    ],
+    "Secondary: T-cell lymphoma": [
+        "\"non-Hodgkins lymphoma\"",
+        "\"Non-Hodgkins T cell lymphoma\"",
+        "\"Burkitts lymphoma\""
+    ],
+    "Cholecystitis": [],
+    "UTI": [
+        "the UTI",
+        "UTI",
+        "chronic UTI",
+        "gram-negative UTI",
+        "complicated UTI",
+        "a UTI"
+    ],
+    "Possible left lower lobe pneumonia": [
+        "Left phantom limb pain",
+        "pulmonary embolism in the right lower lobe",
+        "Left lower lobe pneumonia",
+        "left upper lobe pneumonia"
+    ],
+    "History of postop PAF": [
+        "AML with history of GVHD",
+        "prior history of PE",
+        "History of DVT"
+    ],
+    "Hepatitis C": [
+        "Hepatitis B",
+        "hepatitis B"
+    ],
+    "Acute on chronic diastolic heart failure exacerbation": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "Acute on chronic renal failure",
+        "Chronic AF",
+        "diastolic heart failure",
+        "COPD with exacerbation",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "s/p MVC": [
+        "s/p mechanical MVR"
+    ],
+    "post op confusion": [
+        "post-op pain",
+        "post procedure pain"
+    ],
+    "Arteriovenous malformation of cecum": [],
+    "Gout": [
+        "Gout flare/pain",
+        "gout",
+        "Gout"
+    ],
+    "\"anastomotic leak s/p exlap": [],
+    "s/p craniotomy for bilateral acute on chronic sub dural": [],
+    "blood loss anemia": [
+        "symptomatic anemia",
+        "chronic anemia"
+    ],
+    "history of short gut syndrome on TPN": [],
+    "weight loss": [
+        "appetite stimulation"
+    ],
+    "TTP": [
+        "HLD",
+        "TTP",
+        "HA",
+        "CAP",
+        "CMP",
+        "HR",
+        "TC seizure",
+        "TB treatment",
+        "TLS",
+        "TB",
+        "TB therapy",
+        "TIA"
+    ],
+    "benign prostatic hypertrophy": [],
+    "Acute kidney failure.": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "Renal failure",
+        "Acute lung injury",
+        "Acute Kidney Injury on chronic kidney disease",
+        "Acute Renal Failure"
+    ],
+    "Iatrogenic Hypoglycemia": [
+        "Hypoglycemia"
+    ],
+    "Acute renal failure requiring initiation of dialysis": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "Renal failure",
+        "poor clearance of insulin in setting of renal failure",
+        "Acute Renal Failure"
+    ],
+    "Coronary artery disease": [
+        "coronary artery disease",
+        "Coronary artery disease"
+    ],
+    "Arthritis": [
+        "Arthritis Pain",
+        "Rheumatoid Arthritis",
+        "arthritis",
+        "Rheumatoid arthritis"
+    ],
+    "Right Pleural Effusion": [],
+    "aortoenteric fistula": [],
+    "Secondary": [
+        "screaming",
+        "fever",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "anti-epileptic",
+        "seized",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "CP",
+        "depressed",
+        "agitated",
+        "stomach",
+        "fungus",
+        "paranoid",
+        "restless",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "withdrawal",
+        "anti-coagulation",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation"
+    ],
+    "guiac positive stools": [
+        "guiac positive brown stools",
+        "Heme positive stools",
+        "heme positive stools",
+        "guaiac positive dark stool",
+        "gram(+) cocci in pairs/clusters",
+        "staph coagulase negative organisms",
+        "guiaic positive rectally",
+        "Guaiac positive stool",
+        "hree black tarry stools"
+    ],
+    "Postoperative Toxic-Metabolic Encephalopathy": [
+        "Toxic Metabolic Encephalopathy"
+    ],
+    "Generalized weakness.": [],
+    "septic shock": [
+        "active bleeding",
+        "septic joints",
+        "septic shock",
+        "severe agitation",
+        "sepsis",
+        "multifocal pneumonia",
+        "narcotic withdrawal",
+        "sepsis protocol",
+        "metastatic disease",
+        "parasitic infection",
+        "severe infection",
+        "worsening multifocal pneumonia",
+        "cardiogenic shock",
+        "septic left knee",
+        "Septic shock",
+        "neutropenic fever",
+        "a multifocal pneumonia",
+        "hypertensive crisis",
+        "infected knee",
+        "narcotic induced respiratory distress",
+        "septicemia",
+        "bacterial infection"
+    ],
+    "Anxiety": [
+        "Anxiety"
+    ],
+    "Ventilator associated pneumonia": [
+        "ventilator associated pneumonia",
+        "Ventilator-associated pneumonia",
+        "ventilator associated pneumonia with MRSA",
+        "Ventilator associated pneumonia"
+    ],
+    "Secondary: acute bronchitis": [
+        "bronchospasm from reactive airways disease"
+    ],
+    "Cytomegalovirus": [],
+    "Complete Heart Block": [],
+    "C. difficile infection": [
+        "C. Difficile infection",
+        "Clostridium difficile infection",
+        "Clostridium difficile diarrhea",
+        "C. diff colitis",
+        "Clostridium difficile colitis",
+        "a presumed C. difficile colitis"
+    ],
+    "Hospital Acquired Pneumonia": [
+        "Hospital Acquired Pneumonia",
+        "Health Care Associated Pneumonia",
+        "Hospital acquired PNA"
+    ],
+    "Postoperative Renal Failure": [
+        "Acute Renal Failure"
+    ],
+    "Acute respiratory distress requiring intubation": [
+        "Hypercarbic respiratory distress",
+        "Acute renal insufficiency"
+    ],
+    "Insulin Dependent Diabetes Mellitus": [
+        "Type II Diabetes",
+        "Diabetes Mellitus",
+        "Diabetes Mellitus Type II"
+    ],
+    "Headache NOS": [],
+    "renal cysts": [
+        "ruptured ovarian cyst"
+    ],
+    "Delirium -now resolved": [],
+    "Hepatic collections": [
+        "Epigastric discomfort",
+        "Fluid retention",
+        "Nasal congestion"
+    ],
+    "Ventilator Associated Pneumonia": [
+        "Hospital Acquired Pneumonia",
+        "Ventilator associated pneumonia",
+        "Health Care Associated Pneumonia"
+    ],
+    "Pre/op prolonged QT interval-managed in ICU & cardiology": [],
+    "Critical Aortic Stenosis": [],
+    "Noscomial Pneumonia with GNR in sputum,": [],
+    "Coronary Artery Disease (Severe)": [
+        "coronary artery disease",
+        "Chronic PAIN",
+        "Coronary artery disease"
+    ],
+    "Chronic Renal Insufficiency (creatinine 1.5- 1.9)": [],
+    "Dyslipidemia": [
+        "Hyperlipidemia",
+        "Hypercholesterolemia",
+        "Hyperglycemia"
+    ],
+    "secondary: ESRD": [],
+    "Aortic stenosis s/p Redo sternotomy": [],
+    "PRIMARY DIAGNOSIS:": [],
+    "Urinary tract Infection- E.coli (ESBL)": [],
+    "Right adnexal cyst": [],
+    "Pulmonary Embolism": [
+        "pulmonary embolism",
+        "Pulmonary Embolism",
+        "Pulmonary edema",
+        "Pulmonary emboli",
+        "Pulmonary embolism",
+        "Pulmonary Emboli"
+    ],
+    "Septic vs. cardiogenic shock": [
+        "Septic shock"
+    ],
+    "infection": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "tuberculosis",
+        "rejection",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "yeast",
+        "sleep",
+        "yeast infection",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "chronic",
+        "drainage",
+        "nausea",
+        "cough",
+        "wound",
+        "agitated",
+        "maintenance",
+        "fungus",
+        "severe infection",
+        "infection",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "anti-seizure",
+        "anxious",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "replacement",
+        "coughing",
+        "bacterial infection"
+    ],
+    "required faciotomy-now resolved": [
+        "urinary traction infection"
+    ],
+    "Respiratory Distress requiring intubation": [],
+    "Dementia": [
+        "Dementia"
+    ],
+    "History of:": [],
+    "Anemia of Chronic Disease": [],
+    "Lumbar spinal stenosis": [],
+    "Respiratory failure/hypoxia  requiring mechanical ventilation": [
+        "Respiratory failure"
+    ],
+    "Jejunal Ulcer": [
+        "Ulcerative Colitis"
+    ],
+    "Small bowel obstruction": [],
+    "hypercholesterolemia": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "hypertensive",
+        "dyslipidemia",
+        "hypoglycemia",
+        "hypotensive",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "hypotension",
+        "hypothyroidism"
+    ],
+    "Diabetes mellitus type 2": [
+        "Type II Diabetes",
+        "diabetes mellitus",
+        "Diabetes type II",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus II",
+        "Diabetes mellitus type 2",
+        "Diabetes: Type II",
+        "Diabetes mellitus"
+    ],
+    "atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "ventricular fibrillation",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "pneumococcal pneumonia": [
+        "hospital acquired pneumonia",
+        "septic joints",
+        "septic shock",
+        "streptococcus pneumoniae",
+        "respiratory infection",
+        "multifocal pneumonia",
+        "fungal infection",
+        "community acquired pneumonia",
+        "pneumonitis",
+        "pseudomonas infection of stage",
+        "parasitic infection",
+        "pseudomonal coverage)",
+        "community-acquired pneumonia",
+        "bacterial infection",
+        "empiric meningitis coverage"
+    ],
+    "Status epilepticus": [],
+    "osteoarthritis": [
+        "osteoarthritis",
+        "osteopenia"
+    ],
+    "hypotension and bradycardia secondary to anesthesia": [],
+    "iliac artery dissection": [],
+    "Primary diagnoses": [],
+    "Post op delirium - resolved": [],
+    "Masth Cell Degranulation Syndrome Exascerbation": [],
+    "Hydrocephalus": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Complicated urinary tract infection": [
+        "urinary tract infection",
+        "Urianary tract infection",
+        "positive urinary tract infection",
+        "Urinary tract infection"
+    ],
+    "Chronic renal failure": [
+        "Chronic diastolic heart failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "renal failure",
+        "Renal failure",
+        "renal transplant",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "cataract + mitomycin C trabeculectomy": [],
+    "diarrhea": [
+        "profuse diarrhea",
+        "bloody diarrhea",
+        "diarrhea"
+    ],
+    "CVA": [
+        "PVD",
+        "CVA",
+        "CIWA",
+        "CAP",
+        "CMP"
+    ],
+    "acute lung injury": [
+        "mild acute renal failure",
+        "respiratory infection",
+        "acute renal failure",
+        "pulmonary vascular congestion",
+        "lung disease flare",
+        "restrictive lung disease",
+        "pulmonary edema",
+        "Acute lung injury",
+        "mild pulmonary edema",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "Hepatic encephalopathy": [
+        "hepatic encephalopathyy",
+        "hepatic encephalopathy"
+    ],
+    "Secondary: Left MCA (middle cerebral artery) infarct while INR": [
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "severe AS": [
+        "frontal headache",
+        "iron deficit",
+        "heart burn",
+        "severe agitation",
+        "fever.",
+        "respiratory fatigue",
+        "agitation anxiety",
+        "questionable MI",
+        "lung CA",
+        "severe infection",
+        "promote productive coughing",
+        "worsening multifocal pneumonia",
+        "severe pain",
+        "poor PO intake",
+        "foot infection",
+        "community-acquired pneumonia",
+        "severe nausea",
+        "healthcare-associated pneumonia",
+        "behavioral agitation",
+        "CAP organisms",
+        "avoid resistance",
+        "low BP",
+        "possible pneumonia"
+    ],
+    "Immediate cause of death: acute renal failure": [],
+    "Renal infarctions of unclear significance": [],
+    "Anoxic Brain Injury s/p PEA arrest x2": [],
+    "Osteomyelitis": [
+        "Osteomyelitis",
+        "Osteoporosis",
+        "Odynophagia"
+    ],
+    "Septic shock with multiple organ dysfunction": [
+        "Toxic shock syndrome with septic shock"
+    ],
+    "Hiatal hernia": [
+        "hiatal hernia"
+    ],
+    "peptic ulcer disease-s/p bleed requiring 2uPRBC": [
+        "peptic ulcer disease",
+        "bleeding ulcer",
+        "bleeding pyloric ulcer",
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "Narcotic withdrawal": [
+        "Insulin resistance",
+        "narcotic withdrawal",
+        "Fluid retention",
+        "Nasal congestion"
+    ],
+    "adenocarcinoma of lung": [
+        "carcinoma of lung"
+    ],
+    "Metatstatic colon cancer": [],
+    "Guillain-[**Location (un) **] syndrome": [],
+    "Acute Interstitial Nephritis from nafcillin": [],
+    "Primary: Atrial fibrillation with rapid ventricular response,": [
+        "control your rapid atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "afib with a rapid ventricular response",
+        "rapid atrial fibrillation"
+    ],
+    "Esophageal reflux": [
+        "Gastroesophageal reflux"
+    ],
+    "Right MCA Stroke": [],
+    "Coagulopathy": [
+        "Coagulopathy"
+    ],
+    "s/p PCI [**2155**]": [
+        "DE-ACCESSING port",
+        "possible PCP infection",
+        "CAD with h/o MI",
+        "CAD s/p MI",
+        "h/o CAD",
+        "CAP organisms",
+        "h/o TIA symptoms"
+    ],
+    "Port site infection": [],
+    "IDDM with features of insulin": [
+        "RLL PNA consistent with evolving PNA",
+        "CAD with h/o MI"
+    ],
+    "resolved.": [],
+    "ICH": [],
+    "Hemoptysis": [],
+    "on intra-aortic balloon": [
+        "blood in OG tube"
+    ],
+    "Allergic reaction to pipericillin with severe rash/renal failure": [
+        "Toxic shock syndrome with septic shock",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "Congestive heart failure": [
+        "Chronic diastolic heart failure",
+        "Obstructive/restrictive lung disease",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "Mechanical heart valve",
+        "symptoms of congestive heart failure",
+        "Acute renal failure",
+        "heart failure",
+        "Respiratory failure",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "Coronary artery disease",
+        "uncompensated congestive heart failure",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "hypotension secondary to pneumovax": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "superficial phlebitis"
+    ],
+    "biliary stricture": [
+        "biliary sepsis"
+    ],
+    "Non-ST Elevation Myocardial Infarction": [],
+    "R 6-8th rib fx": [],
+    "Neck abscess/infected fluid collection": [
+        "MRSA lung abscess",
+        "Neck abscess"
+    ],
+    "Acute Hypoxemic Respiratory Failure": [
+        "Congestive Heart Failure",
+        "Acute Renal Failure"
+    ],
+    "Histoplasmosis": [],
+    "Mental status change": [
+        "Mental status change",
+        "mental status changes",
+        "Personality change"
+    ],
+    "Diabetes mellitus": [
+        "Diabetes Mellitus",
+        "diabetes mellitus",
+        "Diabetes type II",
+        "Diabetes mellitus II",
+        "Diabetes mellitus type 2",
+        "Diabetes mellitus"
+    ],
+    "Hypertension.": [
+        "Hypertension"
+    ],
+    "Systolic Heart Failure": [
+        "Chronic diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "Acute Renal Failure"
+    ],
+    "deceased": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "intercourse",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "maintenance",
+        "fungus",
+        "paranoid",
+        "restless",
+        "MG",
+        "Fever",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation",
+        "coughing"
+    ],
+    "ESRD": [
+        "ESRD"
+    ],
+    "SECONDARY DIAGNOSES:": [],
+    "steroid psychosis": [
+        "psychosis"
+    ],
+    "carcinoma)": [
+        "carcinoma consistent w/breast",
+        "mucositis pain"
+    ],
+    "Gram negative rod bacteremia": [
+        "non-Pseudomonas gram negative rods",
+        "Gram negative septicemia due to cholangitis",
+        "Gram positive bacteremia"
+    ],
+    "Kidney abscess": [
+        "Neck abscess"
+    ],
+    "Congestive heart failure exacerbation": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "COPD exacerbation",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "uncompensated congestive heart failure",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Aspiration.": [
+        "Aspiration pneumonia"
+    ],
+    "Vertigo": [
+        "Vertigo"
+    ],
+    "refractory status epilepticus from HSV encephalitis": [],
+    "ATN": [],
+    "paranoid schizophrenia": [
+        "schizoaffective disorder"
+    ],
+    "status post dog attack.": [
+        "foot infection",
+        "post procedure pain"
+    ],
+    "Acute renal failure on top of chronic renal insufficiency,": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Acute renal insufficiency",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "poor clearance of insulin in setting of renal failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "Small bowel obstruction.": [],
+    "AF": [
+        "AFib",
+        "PAF",
+        "PVD",
+        "HF",
+        "AF",
+        "AVf",
+        "AFIB"
+    ],
+    "corrected": [
+        "seizure",
+        "seized",
+        "CP",
+        "depressed",
+        "restless",
+        "MG",
+        "dental",
+        "paralyzed",
+        "heart"
+    ],
+    "PMH:": [],
+    "Noscomial UTI with E. coli - quinolone resistant": [
+        "ventilator associated pneumonia with MRSA"
+    ],
+    "pontine hemorrhage": [
+        "diffuse alveolar hemorrhage",
+        "retroperitoneal hematoma",
+        "intracranial hemorrhage",
+        "hemorrhage"
+    ],
+    "SECONDARY": [],
+    "Seizures after hypoxic brain injury": [],
+    "Lower GI bleed": [
+        "GI bleed",
+        "GI protection",
+        "lower GI bleed",
+        "Upper GI bleed"
+    ],
+    "Contrast Induced Nephropathy": [],
+    "Adrenal adenoma": [],
+    "IVDA": [],
+    "Lithium Toxicity": [],
+    "Spontaneous Left-sided pneumothorax": [],
+    "Non ST elevation myocardial infarction": [
+        "post myocardial infarction"
+    ],
+    "Acute Alcoholic Hepatitis": [
+        "Autoimmune hepatitis"
+    ],
+    "post menopausal bleeding": [],
+    "Syncope from Ventricular Tachycardia": [
+        "Supraventricular Tachycardia"
+    ],
+    "BPH": [
+        "BPH",
+        "his BPH"
+    ],
+    "Renal Failure": [
+        "Renal Insufficiency",
+        "Acute Renal Failure"
+    ],
+    "Lithium toxicity": [
+        "Fluid retention"
+    ],
+    "hyotension requiring pressure support": [
+        "blood pressure support",
+        "chest pressure",
+        "increased respiratory effort",
+        "maintain pressures",
+        "pressure support",
+        "high potassium levels",
+        "narcotic withdrawal",
+        "even to negative fluid balance",
+        "edema from fluid retention",
+        "hyponatremia to 120",
+        "hypoglycemia protocol",
+        "\"hypotensive to 80s\"",
+        "cardiogenic shock",
+        "sternal drainage",
+        "blood pressure control",
+        "blood pressure management",
+        "fluid status",
+        "hemodynamic support",
+        "to control phosphorus because of kidney failure",
+        "hypertensive crisis",
+        "responsive to sternal rub only",
+        "narcotic induced respiratory distress"
+    ],
+    "Mild GI bleeding due to gastritis": [
+        "uppger GI bleeding from a stomach ulcer",
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "Ascending Aortic Aneurysm Coronary Artery Disease": [],
+    "\"Parkinsons disease\"": [
+        "\"Bells palsy\"",
+        "\"Graves disease\"",
+        "\"presumed Wernickes\"",
+        "\"Burkitts lymphoma\"",
+        "\"Crohns Disease\"",
+        "\"Crohns disease\"",
+        "\"Parkinsons\"",
+        "\"Crohns\"",
+        "\"Parkinsons disease\"",
+        "\"TIAs\""
+    ],
+    "Chronic Kidney Disease stage 3": [],
+    "incidentally noted left renal cyst/mass NOS": [],
+    "Aspiration pneumonia": [
+        "aspiration pneumonia",
+        "presumed aspiration pneumonia",
+        "Aspiration pneumonia"
+    ],
+    "Vocal cord dysfunction": [],
+    "H. influenza meningitis": [
+        "HSV meningitis"
+    ],
+    "Bright Red Blood Per rectum": [
+        "Bright red blood per rectum"
+    ],
+    "Increased intracranial pressures": [],
+    "Coagulase negative staphylococcal bacteremia": [
+        "MRSA bacteremia",
+        "Enterococcal/Enterobacter bacteremia",
+        "Streptococcus Viridans bacteremia",
+        "Gram negative septicemia due to cholangitis",
+        "Enterococcal bacteremia",
+        "staph coagulase negative organisms",
+        "MSSA bacteremia"
+    ],
+    "Secondary: lung cancer": [],
+    "Anemia from acute blood loss": [
+        "Toxic shock syndrome with septic shock",
+        "edema from fluid retention"
+    ],
+    "Opiate overdose": [],
+    "CAVE CEPHALEXIN": [
+        "RECTAL CANCER",
+        "SEIZURE CONTROL"
+    ],
+    "seizures": [
+        "clinical seizured",
+        "generalized seizures",
+        "seizure activity",
+        "seizures",
+        "recurrent seizures"
+    ],
+    "PRIMARY:": [],
+    "congestive heart failure,": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "coronary artery disease",
+        "symptoms of congestive heart failure",
+        "recurrent chest pain",
+        "chronic obstructive pulmonary disease flare",
+        "pleuritic chest pain",
+        "heart failure",
+        "severe CHF",
+        "diastolic heart failure",
+        "cardiogenic shock",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation",
+        "chronic chest pain"
+    ],
+    "Diverticulosis": [],
+    "L4-L5 discitis": [],
+    "primary: Hypertensive emergency": [],
+    "profound weakness. dysphagia. anasarca.": [],
+    "SECONDARY: Depression/ SI": [],
+    "L1 compression fracture": [],
+    "Tongue Swelling": [],
+    "Mechanical Mitral Valve": [
+        "mechanical mitral valve",
+        "Mitral Valve Replacement"
+    ],
+    "Post-extubation confused related to medications": [],
+    "Lower gastrointestinal bleeding": [
+        "upper gastrointestinal bleed",
+        "gastrointestinal bleed",
+        "Upper GI bleed",
+        "Gastrointestinal bleed"
+    ],
+    "Primary: MRSA urinary tract infection": [
+        "MSSA infection",
+        "urinary tract infection",
+        "Urianary tract infection",
+        "urinary infection",
+        "Peripheral IV-associated MSSA bacteremia",
+        "positive urinary tract infection",
+        "Urinary tract infection"
+    ],
+    "Ventilator-associated pneumonia": [
+        "Ventilator-associated pneumonia",
+        "Ventilator associated pneumonia"
+    ],
+    "Bullet wound to right leg": [],
+    "MEDICATION REACTION / NEW ALLERGY TO AZITHROMYCIN AND ROCEPHIN": [
+        "FEVER OF UNKNOWN ORIGIN",
+        "ATRIAL FIBRILLATION WITH RAPID VENTRICULAR RATE",
+        "ACUTE ON CHRONIC KIDNEY FAILURE"
+    ],
+    "intraventricular hemorrhage,": [
+        "diffuse alveolar hemorrhage",
+        "retroperitoneal hematoma",
+        "intracranial hemorrhage",
+        "edema from fluid retention",
+        "hemorrhoid pain",
+        "hemorrhage"
+    ],
+    "Primary Diagnosis: Upper GI bleed; ulcer": [
+        "Upper GI bleed"
+    ],
+    "Hepatocelular Carcinoma": [
+        "Hepatocellular Carcinoma"
+    ],
+    "Tuberculosis": [],
+    "consulted": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "N",
+        "paranoid",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "ight LC1 pelvic ring injury": [],
+    "SVG to D1)[**12**]\"": [],
+    "controlled with Lamictal and Celexa": [
+        "Afib with RVR",
+        "Afib/flutter with HR in 100s"
+    ],
+    "PEA arrest": [
+        "HLD",
+        "HCT 23.4",
+        "DE-ACCESSING port",
+        "PAF",
+        "PVD",
+        "HAP coverage",
+        "O2sat 77% on RA",
+        "HD stability",
+        "HA",
+        "HR control",
+        "MSSA infection",
+        "CBD stone",
+        "CMP",
+        "IVC filter",
+        "CAP coverage",
+        "TC seizure",
+        "HRs recovering",
+        "RLL pneumonia",
+        "TB treatment",
+        "Tube feeds",
+        "GI protection",
+        "agitation anxiety",
+        "questionable MI",
+        "Fluid retention",
+        "R flank pain",
+        "promote productive coughing",
+        "IVF filters",
+        "URO treatment",
+        "ECHO bubble",
+        "GPCs in chains",
+        "BP support",
+        "FSG 30",
+        "?LLL PNA",
+        "LUL pneumonia",
+        "poor PO intake",
+        "LLL pneumonia",
+        "lip swelling",
+        "her agitation",
+        "COPD flare",
+        "Guaiac positive stool",
+        "healthcare-associated pneumonia",
+        "Line infection",
+        "SBPs 80s",
+        "CAP organisms",
+        "PEs",
+        "avoid resistance",
+        "PE",
+        "low BP",
+        "PEA",
+        "UOP >100cc/h",
+        "LLL pna"
+    ],
+    "Diarrhea": [
+        "Diarrhea"
+    ],
+    "Squamous cell cancer of the esophagus": [
+        "Ulcers in the distal esophagus",
+        "stage I mucinous carcinoma of the ovary"
+    ],
+    "Metabolic encephalopathy": [
+        "Toxic Metabolic Encephalopathy"
+    ],
+    "Past Surgical History": [],
+    "Bradycardia": [],
+    "Chronic pain": [
+        "Chronic neuropathic/radicular pain",
+        "Chronic back pain",
+        "Pain control",
+        "Chest Pain",
+        "Chronic Pain",
+        "chronic pain"
+    ],
+    "Umbilical hernia with fluid leakage: stable": [
+        "uppger GI bleeding from a stomach ulcer"
+    ],
+    "Febrile neutropenia": [
+        "Febrile neutropenia",
+        "Febrile Neutropenia"
+    ],
+    "Diastolic Heart Failure": [
+        "Diastolic CHF",
+        "Chronic diastolic heart failure",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure"
+    ],
+    "Syncope": [],
+    "Acute on chronic renal failure": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "renal failure",
+        "Renal failure",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "renal transplant",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "Secondary Diagnoses:": [],
+    "lymphoblastic lymphoma / ALL": [
+        "lymphoblastic lymphoma",
+        "acute lymphoblastic leukemia"
+    ],
+    "Disseminated intravascular coagulation": [],
+    "respiratory failure": [
+        "septic shock",
+        "heart burn",
+        "chest pressure",
+        "increased respiratory effort",
+        "severe agitation",
+        "Hypercarbic respiratory distress",
+        "mild acute renal failure",
+        "respiratory infection",
+        "respiratory fatigue",
+        "acute renal failure",
+        "heart failure",
+        "pulmonary vascular congestion",
+        "improve ventilation",
+        "lung disease flare",
+        "ARDS treatment",
+        "severe infection",
+        "respiratory status",
+        "cardiogenic shock",
+        "difficulty breathing",
+        "poor respiratory effort",
+        "restrictive lung disease",
+        "renal failure",
+        "fluid status",
+        "pulmonary edema",
+        "community-acquired pneumonia",
+        "left upper lobe pneumonia",
+        "mild pulmonary edema",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "thought secondary to overdiuresis": [],
+    "site": [],
+    "Left basal ganglia intraparenchymal hemorrhage": [
+        "Right basilic vein thrombosis"
+    ],
+    "Left heel ulcer": [],
+    "SIRS": [
+        "SIRS",
+        "SOB/wheeze",
+        "SOB"
+    ],
+    "altered mental status": [
+        "mental status changes"
+    ],
+    "Elevated liver function tests secondary to high dose IL-2": [
+        "Toxic shock syndrome with septic shock",
+        "to control calcium and phosphorus because of kidney failure"
+    ],
+    "Anemia-secondary to bleeding": [],
+    "Hypercholesterolemia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism",
+        "Pulmonary hypertension"
+    ],
+    "Type II": [
+        "Type II DM"
+    ],
+    "Pyelonephritis": [],
+    "Prostate enlargement s/p TURP": [],
+    "HRS": [
+        "HLD",
+        "HL",
+        "HAP",
+        "HF",
+        "HA",
+        "HR",
+        "HTN",
+        "HSV",
+        "HRS",
+        "HIT"
+    ],
+    "CKD": [
+        "CKD"
+    ],
+    "complex ovarian cysts": [
+        "ruptured ovarian cyst"
+    ],
+    "hypokalemia": [
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "for hypokalemia",
+        "Hypokalemia",
+        "Hyperkalemia",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypoxic",
+        "hypotensive",
+        "hypokalemia",
+        "orthostatic hypotension",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "hypocoaguable",
+        "hypotension",
+        "hypoxia",
+        "hypothyroidism",
+        "hypoglycemic",
+        "her hypotension"
+    ],
+    "Hypercalcemia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "artery bypass using 8-mm ring PTFE graft.": [
+        "clot in right main pulmonary artery and branch arteries in the LLL."
+    ],
+    "Recurrent incisional hernia reduced intestine": [],
+    "Secondary Diagnoses": [],
+    "hypoalbuminemia": [
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "for hypokalemia",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypotensive",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "significant hypothyroidism",
+        "hypocoaguable",
+        "hypotension",
+        "hypothyroidism"
+    ],
+    "Renal Cyst": [],
+    "Angioedema": [
+        "Angioedema",
+        "Angiogedema"
+    ],
+    "Rectus muscle hematoma": [],
+    "Idiopathic neutropenia": [],
+    "Primary: Diabetic ketoacidosis": [
+        "Diabetic Ketoacidosis",
+        "Diabetes: Type II"
+    ],
+    "Restrictive Pulmonary Disease secondary to kyphoscoliosis": [],
+    "Cerebral Palsy": [],
+    "Secondary diagnoses": [],
+    "severe Aortic Stenosis (valve area 0.8)": [],
+    ".": [
+        "screaming",
+        "anxious"
+    ],
+    "EXPIRED": [],
+    "Hypercholesteremia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Chronic Congestive Heart Failure with EF 15%": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "Atrial Fibrillation with RVR",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "uncompensated congestive heart failure"
+    ],
+    "Gastroesophageal reflux disease": [
+        "Gastroesophageal reflux",
+        "Gastrointestinal bleed"
+    ],
+    "MSSA meningitis and vertebral": [
+        "MRSA lung abscess",
+        "MRSA bacteremia",
+        "Peripheral IV-associated MSSA bacteremia",
+        "MSSA bacteremia",
+        "to prevent embolic stroke from known LV thrombus",
+        "HSV meningitis"
+    ],
+    "emphysema": [
+        "empyema"
+    ],
+    "End stage liver disease secondary to Hep C cirrhosis": [
+        "HCV cirrhosis",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "acute renal failure": [
+        "worsening renal function",
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "kidney function",
+        "Acute renal insufficiency",
+        "renal failure",
+        "Renal failure",
+        "poor clearance of insulin in setting of renal failure",
+        "renal transplant",
+        "acute on chronic renal failure"
+    ],
+    "laceration to common iliac vein and artery": [
+        "ulcer in the cardia",
+        "pseudoaneurysm of the femoral artery",
+        "erythema and tenderness around the left SVG harvest site",
+        "bilateral DVTs of common femoral",
+        "clot in right main pulmonary artery and branch arteries in the LLL.",
+        "clot in right main pulmonary artery and branch arteries in the LLL"
+    ],
+    "vessel coronary artery disease": [
+        "coronary artery disease"
+    ],
+    "mm PTFE graft. 2. A left common carotid to right common": [],
+    "coronary artery disease": [
+        "congestive heart failure",
+        "coronary artery disease",
+        "secondary cardiovascular prevention",
+        "diastolic heart failure",
+        "Coronary artery disease"
+    ],
+    "Gout Flare": [],
+    "Arrhythmia.": [],
+    "s/p CABG [**2137**]": [
+        "CAD s/p CABG",
+        "CAD with h/o MI",
+        "CAD s/p MI",
+        "h/o CAD",
+        "CAP organisms",
+        "h/o TIA symptoms"
+    ],
+    "Microcytic anemia": [],
+    "cardiogenic shock": [
+        "septic shock",
+        "heart burn",
+        "congestive heart failure",
+        "adrenal crisis",
+        "pleuritic chest pain",
+        "heart failure",
+        "pulmonary vascular congestion",
+        "sepsis protocol",
+        "hypoglycemia protocol",
+        "cardiogenic shock",
+        "hemodynamic support",
+        "heart protection",
+        "hypertensive crisis",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "Lower GI Bleed": [
+        "GI Bleed"
+    ],
+    "Acute on chronic kidney injury": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Acute lung injury",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "acute on chronic renal failure": [
+        "worsening renal function",
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "maintenance of transplanted kidney",
+        "acute renal failure",
+        "renal failure",
+        "Renal failure",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "poor clearance of insulin in setting of renal failure",
+        "renal transplant",
+        "Acute Kidney Injury on chronic kidney disease",
+        "ARF on CRF",
+        "acute on chronic renal failure",
+        "to treat the acute cellular rejection"
+    ],
+    "Primary: bleeding from palate abcess I&D and tooth extraction": [],
+    "Aortic Valve Replacement": [
+        "Mitral Valve Replacement"
+    ],
+    "OSA": [],
+    "End stage renal disease on HD": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "vitamin B12 deficiency": [
+        "vitamin D deficiency"
+    ],
+    "bacteremia": [
+        "balanitis",
+        "bacteremia"
+    ],
+    "Primary: Thoracic Aortic Aneurysm - s/p repair": [],
+    "Signet-ring cell gastric cancer invading trans colon": [],
+    "Failure to Thrive": [],
+    "GI bleed": [
+        "GI bleed",
+        "CBD stone",
+        "GI PPx",
+        "gastrointestinal bleed",
+        "GI protection",
+        "lower GI bleed",
+        "Upper GI bleed",
+        "FSG 30",
+        "CAP organisms",
+        "stomach irritation"
+    ],
+    "Fevers": [
+        "fevers/chills",
+        "fevers",
+        "Fevers"
+    ],
+    "Volume overload / acute on chronic CHF": [
+        "Acute on chronic renal failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "ARF on CRF",
+        "acute on chronic renal failure"
+    ],
+    "GERD": [
+        "GERD  symptoms",
+        "GERD pain",
+        "GERD"
+    ],
+    "controlled with complications": [
+        "active bleeding",
+        "achieve adequate rate control",
+        "promote productive coughing",
+        "BP was elevated",
+        "better control BP"
+    ],
+    "hypotension": [
+        "hypertension",
+        "hyperkalemia",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "for hypokalemia",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypoglycemia protocol",
+        "hypotensive",
+        "hypokalemia",
+        "orthostatic hypotension",
+        "hyperglycemia",
+        "hyponatremia",
+        "hypotension",
+        "hypoxia",
+        "hypothyroidism",
+        "hypoglycemic",
+        "her hypotension"
+    ],
+    "Asthma": [
+        "Asthma",
+        "Asthma Exacerbation"
+    ],
+    "Diabetes Mellitus": [
+        "Diabetes Mellitus",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus"
+    ],
+    "Heparin-induced thrombocytopenia": [],
+    "iron deficiency anemia": [
+        "FE deficient anemia",
+        "iron deficiency",
+        "Iron deficiency anemia",
+        "severe symptomatic anemia",
+        "chronic anemia",
+        "iron deficient"
+    ],
+    "ventral abdominal hernia": [],
+    "intraabdominal abscess": [
+        "dental abscess"
+    ],
+    "seizure": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "stroke",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "creatinine now normal": [],
+    "Hypoxic respiratory failure": [
+        "Hypercarbic respiratory distress",
+        "Acute renal failure",
+        "respiratory fatigue",
+        "Respiratory failure",
+        "respiratory status",
+        "Acute diastolic heart failure",
+        "poor respiratory effort",
+        "Septic shock",
+        "Acute lung injury",
+        "respiratory distress",
+        "narcotic induced respiratory distress"
+    ],
+    "Severe chronic obstructive pulmonary disease": [
+        "Chronic diastolic heart failure",
+        "Obstructive/restrictive lung disease",
+        "chronic obstructive pulmonary disease",
+        "chronic obstructive pulmonary disease flare",
+        "Acute diastolic heart failure",
+        "restrictive lung disease",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Bacteremia": [
+        "Enterococcus Bacteremia",
+        "Bacteremia"
+    ],
+    "Congestive Heart Failure": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "Congestive Heart Failure",
+        "Acute Renal Failure"
+    ],
+    "Normocytic hypoproliferative anemia": [],
+    "requiring 10 units PRBCs when anticoagulated for current": [
+        "INR of 10",
+        "maintain a hematocrit near 30%"
+    ],
+    "Secondary: Paroxysmal atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "Secondary Diagnosis:": [],
+    "RLE Angiography and PTCA of right anterior tibial artery": [
+        "clot in right main pulmonary artery and branch arteries in the LLL."
+    ],
+    "Shock liver": [],
+    "Iron Deficiency Anemia": [
+        "Iron deficiency anemia"
+    ],
+    "Metastic Renal Cell Carcinoma": [
+        "Hepatocellular Carcinoma"
+    ],
+    "Anemia": [
+        "Anemia",
+        "anemia"
+    ],
+    "primary: atrial flutter": [
+        "A. flutter (atrial ectopy hybrid)",
+        "control your rapid atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "long ventriculoperitoneal tachycardiac narrow complex at 139",
+        "rapid atrial fibrillation"
+    ],
+    "Metastatic anaplastic thyroid cancer": [
+        "Metastatic melanoma",
+        "nonsmall cell lung cancer with brain metastasis",
+        "Rectal metastatic adenocarcinoma",
+        "Metastatic breast cancer to the brain"
+    ],
+    "Peripheral Arterial Disease": [
+        "eripheral Vascular Disease",
+        "Coronary artery disease"
+    ],
+    "recovered w/ fluid resusciation": [
+        "even to negative fluid balance"
+    ],
+    "Severe benzodiazepine withdrawal": [
+        "Severe bipolar disorder"
+    ],
+    "Hypopituitarism": [
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypercholesterolemia",
+        "Hypothyroidism"
+    ],
+    "Angina": [
+        "Angina"
+    ],
+    "?biliary sepsis": [
+        "biliary sepsis",
+        "possible bacterial suprainfection",
+        "patchy infiltates concerning for biliary sepsis"
+    ],
+    "Coronary artery disease; s/p recent BMS to RCA": [],
+    "Gastritis": [
+        "Gastroenteritis"
+    ],
+    "Primary Diagnoses:": [],
+    "Coronary Disease": [
+        "Coronary artery disease"
+    ],
+    "bacterial Urinary tract infection": [
+        "urinary traction infection",
+        "infection in your GI tract",
+        "urinary tract infection",
+        "Urianary tract infection",
+        "urinary infection",
+        "positive urinary tract infection",
+        "Urinary tract infection",
+        "viral upper respiratory tract infection",
+        "bacterial infection"
+    ],
+    "Recent viral myopericarditis": [],
+    "Emergent coronary bypass grafting x5": [],
+    "Complete Heart Block s/p external pacemaker placement and then": [
+        "her heart valve"
+    ],
+    "Intubation for respiratory protection": [
+        "Hypercarbic respiratory distress"
+    ],
+    "likely secondary to narcotics withdrawal vs.": [
+        "concern for infectious etiology",
+        "narcotic withdrawal",
+        "narcotic induced respiratory distress"
+    ],
+    "history of cervical osteomyelitis on chronic vancomycin": [
+        "cervical osteomyelitis",
+        "bacterial suprainfection of her viral pneumonia"
+    ],
+    "chronic kidney disease": [
+        "worsening renal function",
+        "mild acute renal failure",
+        "acute renal failure",
+        "kidney function",
+        "renal failure",
+        "renal transplant",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "Acute kidney injury due to volume depletion": [
+        "Acute renal failure",
+        "Toxic shock syndrome with septic shock",
+        "Gram negative septicemia due to cholangitis",
+        "Acute on chronic renal failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "to control phosphorus because of kidney failure",
+        "Acute lung injury",
+        "to control calcium and phosphorus because of kidney failure",
+        "poor clearance of insulin in setting of renal failure",
+        "Acute Kidney Injury on chronic kidney disease"
+    ],
+    "Deceased.": [],
+    "Diagnosis: hypertensive emergency": [],
+    "s/p cabg x4": [],
+    "Pancytopenia": [
+        "Pancytopenia"
+    ],
+    "s/p pacemaker placement": [
+        "S/P BiV pacer-",
+        "device infection",
+        "her heart valve",
+        "pacemaker pocket infection"
+    ],
+    "incision cellulitis": [
+        "nasal cellulitis"
+    ],
+    "Bilateral leg DVTs": [
+        "R peroneal DVT"
+    ],
+    "\"s/p Coronary Artery Bypass Graft x 2(LIMA to LAD": [],
+    "Rheumatoid arthritis": [
+        "Psoriatic arthritis",
+        "rheumatoid arthritis",
+        "Rheumatoid Arthritis",
+        "Rheumatoid arthritis"
+    ],
+    "right upper extremity DVT": [
+        "right peroneal DVT",
+        "lower extremity edema",
+        "right lower extremity DVT",
+        "right upper quadrant pain",
+        "lower extremity DVT"
+    ],
+    "Stroke.": [],
+    "likely related to": [],
+    "Hypotension/Bradycardia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "pulmonary emboli": [
+        "pulmonary embolism",
+        "pulmonary embolus",
+        "Pulmonary emboli",
+        "Pulmonary embolism"
+    ],
+    "Gastrointestinal bleeding": [
+        "upper gastrointestinal bleed",
+        "Gastroenteritis",
+        "gastrointestinal bleed",
+        "Epigastric discomfort",
+        "Upper GI bleed",
+        "Gastrointestinal bleed"
+    ],
+    "Bowel Necrosis due to Kayexalate Crystals": [],
+    "thought secondary to diabetes": [
+        "headache associated with sinusitis",
+        "bacterial suprainfection of her viral pneumonia",
+        "possible pneumonia"
+    ],
+    "Hyperkalemia": [
+        "Hypotension",
+        "hyperkalemia",
+        "hypernatremia",
+        "Hypertension",
+        "hyperkalemic",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "hypokalemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypothermia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "post-op dysphagia-evaluated per Speech & Swallow Specialist": [],
+    "enterocutaneous fistula": [],
+    "will need": [],
+    "\"Kaposis sarcoma\"": [
+        "\"Burkitts Lymphoma\"",
+        "\"non-Hodgkins lymphoma\"",
+        "\"Bells palsy\"",
+        "\"Graves disease\"",
+        "\"presumed Wernickes\"",
+        "\"Burkitts lymphoma\"",
+        "\"Crohns Disease\"",
+        "\"Crohns disease\"",
+        "\"Parkinsons\"",
+        "\"Crohns\"",
+        "\"Parkinsons disease\"",
+        "\"TIAs\""
+    ],
+    "ACUTE ISSUES:": [],
+    "Acute renal failure/ATN": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Respiratory failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "renal failure",
+        "Renal failure",
+        "Acute lung injury",
+        "renal transplant",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure",
+        "Acute Renal Failure"
+    ],
+    "Anemia (low red blood cell count).": [],
+    "AAA": [],
+    "Upper GI bleed from gastric ulcer": [
+        "Ulcers in the distal esophagus",
+        "upper gastrointestinal bleed",
+        "uppger GI bleeding from a stomach ulcer",
+        "GI ulcer prophylaxis",
+        "Upper GI bleed",
+        "bleeding pyloric ulcer"
+    ],
+    "N/A": [
+        "screaming",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "anti-epileptic",
+        "seized",
+        "breakthrough",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "CP",
+        "depressed",
+        "agitated",
+        "stomach",
+        "N",
+        "paranoid",
+        "restless",
+        "T>101.4",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes"
+    ],
+    "Anemia requiring blood transfusion": [],
+    "deaf": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "breakthrough",
+        "irritation",
+        "flu",
+        "chronic",
+        "BP",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "restless",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "coughing"
+    ],
+    "left retroperitoneal bleed": [
+        "retroperitoneal hematoma",
+        "pulmonary embolism in the right lower lobe",
+        "chronic left flank pain",
+        "left sided plank pain",
+        "erythema and tenderness around the left SVG harvest site",
+        "left eye pain",
+        "left upper lobe pneumonia",
+        "right upper quadrant pain"
+    ],
+    "Acute renal failure [**1-28**] dehydration": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "renal failure",
+        "Renal failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "End-stage kidney disease secondary to lithium toxicity": [
+        "Toxic shock syndrome with septic shock",
+        "to control phosphorus because of kidney failure",
+        "Acute Kidney Injury on chronic kidney disease"
+    ],
+    "Central diabetes insipidus": [
+        "Diabetes insipidus"
+    ],
+    "hemorrhage.": [
+        "diffuse alveolar hemorrhage",
+        "active bleeding",
+        "septic joints",
+        "urinary traction infection",
+        "retroperitoneal hematoma",
+        "fever.",
+        "blood clots)",
+        "intracranial hemorrhage",
+        "agitation anxiety",
+        "edema from fluid retention",
+        "hematoma",
+        "hyponatremia to 120",
+        "hypoglycemia protocol",
+        "hemorrhoid pain",
+        "hemorrhage",
+        "cardiogenic shock",
+        "blood in OG tube",
+        "hematemesis",
+        "worsening infection",
+        "bleeding from I&D site",
+        "fluid removal",
+        "mucositis pain"
+    ],
+    "Anterograde Amnesia": [],
+    "seen on chest X-ray": [
+        "pleuritic chest pain",
+        "ground glass findings on chest CT"
+    ],
+    "s/p Left carotid endarterectomy": [],
+    "nephrolithiasis": [],
+    "End stage renal disease requiring hemodialysis": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "acute on chronic renal failure"
+    ],
+    "hypercarbia secondary to ativan - requiring intubation": [
+        "ulceration at the PEG tube site that was cauterized",
+        "patchy infiltates concerning for biliary sepsis",
+        "narcotic induced respiratory distress"
+    ],
+    "Epistaxis": [
+        "Epistaxis"
+    ],
+    "s/p Left subclavian to left common carotid artery bypass with": [],
+    "CAVE PHENYTOIN": [
+        "HEALTH CARE ASSOCIATED PNEUMONIA"
+    ],
+    "traumatic left frontal intaparychymal hemorrhage (contusion)": [
+        "left sylvian fissure subarachnoid hemorrhage",
+        "erythema and tenderness around the left SVG harvest site",
+        "bacterial suprainfection of her viral pneumonia"
+    ],
+    "s/p liver transplant [**2125-9-13**]": [
+        "HCT dropped",
+        "drop HCT",
+        "dropping HCT",
+        "orthotopic liver transplant",
+        "maintenance of transplanted kidney",
+        "her heart valve",
+        "S/P renal xplant",
+        "to treat the acute cellular rejection"
+    ],
+    "Systemic Lupus Erythematosus Associated Cardiomyopathy.": [],
+    "L 4-8th rib fx": [],
+    "Depression": [
+        "Depression",
+        "BP",
+        "depressed",
+        "depression"
+    ],
+    "Bradycardia requiring Pacemaker": [],
+    "Eschirichia coli bactermeia": [],
+    "primary:": [
+        "frontal headache",
+        "severe agitation",
+        "CBD stone",
+        "ear wax",
+        "TC seizure",
+        "RLL pneumonia",
+        "anti-nausea medication",
+        "possible PCP infection",
+        "questionable MI",
+        "carcinoma consistent w/breast",
+        "severe infection",
+        "R flank pain",
+        "promote productive coughing",
+        "flat lesions",
+        "breast CA",
+        "GPCs in chains",
+        "BP support",
+        "FSG 30",
+        "poor PO intake",
+        "LLL pneumonia",
+        "lip swelling",
+        "community-acquired pneumonia",
+        "Guaiac positive stool",
+        "healthcare-associated pneumonia",
+        "Line infection",
+        "CAP organisms",
+        "secondary prevention",
+        "avoid resistance",
+        "low BP",
+        "possible pneumonia"
+    ],
+    "Breast nodule": [],
+    "hepatitis C": [
+        "Hepatitis B",
+        "hepatitis B",
+        "acute alcoholic hepatitis",
+        "hepatorenal syndrome"
+    ],
+    "R. intraventricular bleed": [],
+    "Hemorrhage from tracheostomy.": [],
+    "Health care associated pneumonia": [
+        "Health Care Associated Pneumonia"
+    ],
+    "wall motion abnormalities on echo": [],
+    "complicated with necrosis of": [
+        "pseudomonas infection of stage",
+        "a multifocal pneumonia"
+    ],
+    "Bilateral upper extremity and left buttock severe bite wounds": [
+        "pain of the left lower extremity and back"
+    ],
+    "Metastatic non-small cell lung carcinoma": [
+        "nonsmall cell lung cancer with brain metastasis",
+        "non small cell lung cancer lung carcinoma",
+        "non-small cell lung cancer"
+    ],
+    "Metastatic Non-small cell carcinoma": [],
+    "History of rheumatic heart disease": [],
+    "Thrush": [
+        "Thrush"
+    ],
+    "Prior MI [**2151**]": [],
+    "Toxic shock syndrome with septic shock requiring vasopressors": [
+        "Toxic shock syndrome with septic shock",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "history of MRSA bacteremia": [
+        "MRSA bacteremia",
+        "positive for MRSA",
+        "MRSA infection",
+        "ventilator associated pneumonia with MRSA",
+        "Peripheral IV-associated MSSA bacteremia",
+        "MSSA bacteremia",
+        "high grade S aureus bacteremia"
+    ],
+    "sepsis": [
+        "septic joints",
+        "septic shock",
+        "sepsis",
+        "biliary sepsis",
+        "sepsis protocol",
+        "sedating",
+        "septicemia"
+    ],
+    "Left frontotemporal intraparenchymal hemorrhage and subarachnoid": [
+        "left sylvian fissure subarachnoid hemorrhage"
+    ],
+    "s/p NSTEMI": [],
+    "Metastatic rectal cancer.": [
+        "Metastatic melanoma",
+        "Locally-advanced pancreatic cancer",
+        "Rectal metastatic adenocarcinoma",
+        "Metastatic breast cancer to the brain"
+    ],
+    "Epiglottitis": [
+        "Esophagitis",
+        "Epistaxis"
+    ],
+    "with trach cannulation": [],
+    "Hypernatremia": [
+        "Hypotension",
+        "hypernatremia",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism",
+        "Pulmonary hypertension"
+    ],
+    "Steroid induced hyperglycemia": [],
+    "hemorrhagic shock": [
+        "active bleeding",
+        "septic shock",
+        "retroperitoneal hematoma",
+        "intracranial hemorrhage",
+        "sepsis protocol",
+        "hypoglycemia protocol",
+        "hemorrhoid pain",
+        "hemorrhage",
+        "cardiogenic shock",
+        "hemodynamic support",
+        "neutropenic fever",
+        "hypertensive crisis"
+    ],
+    "Siezure disorder": [
+        "Tube feeds",
+        "Fluid retention"
+    ],
+    "pneumonia": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "tuberculosis",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "depression",
+        "paranoid",
+        "infection",
+        "AIDS",
+        "restless",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "seizure disorder": [
+        "frontal headache",
+        "agitation anxiety",
+        "clinical seizured",
+        "generalized seizures",
+        "seizure activity",
+        "seizures",
+        "recurrent seizures"
+    ],
+    "extra-pyramidal adverse effect": [],
+    "Upper GI bleed": [
+        "upper gastrointestinal bleed",
+        "GI bleed",
+        "GI protection",
+        "Urianary tract infection",
+        "lower GI bleed",
+        "Upper GI bleed",
+        "Gastrointestinal bleed"
+    ],
+    "Acute STEMI": [],
+    "Metastatic melanoma status post High dose IL-2 therapy": [],
+    "Hyperglycemia": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypoxia",
+        "Hypothermia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism"
+    ],
+    "Zoster (shingles).": [
+        "Zoster infection"
+    ],
+    "tachycardia": [
+        "sinus tachycardic",
+        "ventricular tachycardia",
+        "tachypneic",
+        "tachycardic",
+        "tachycardia",
+        "tachypnea",
+        "atrial tachycardia"
+    ],
+    "Epidural and Paraspinal phlegmon": [],
+    "beta blocker": [],
+    "MSSA bacteremia": [
+        "MRSA lung abscess",
+        "MSSA infection",
+        "MRSA bacteremia",
+        "Enterococcal/Enterobacter bacteremia",
+        "MRSA infection",
+        "Enterococcal bacteremia",
+        "Peripheral IV-associated MSSA bacteremia",
+        "MSSA bacteremia"
+    ],
+    "Rhabdomyolysis- RLE ischemia 2nd to compartment syndrome,": [
+        "Toxic shock syndrome with septic shock"
+    ],
+    "Thrombocytopenia (low platelet count).": [
+        "prevent deep vein thrombosis (blood clots)",
+        "Hct was low enough"
+    ],
+    "diffuse skin pustules": [
+        "diffused rash",
+        "diffuse itching and burning of the skin",
+        "diffuse body pain",
+        "papular rash",
+        "superficial phlebitis"
+    ],
+    "Fulminant hepatic failure": [
+        "Acute renal failure",
+        "Acute renal insufficiency",
+        "Renal failure"
+    ],
+    "supraventricular tachycardia": [
+        "sinus tachycardic",
+        "ventricular tachycardia",
+        "tachypneic",
+        "transient tachycardia to 120s",
+        "fasicular ventricular tachycardia",
+        "tachycardic",
+        "tachycardia",
+        "tachypnea",
+        "atrial tachycardia",
+        "Atrial tachycardia",
+        "Supraventricular tachycardia"
+    ],
+    "\"s/p MI [**41**]\"": [
+        "\"Parkinsons\"",
+        "\"TIAs\""
+    ],
+    "Acute blood loss anemia": [
+        "Iron deficiency anemia"
+    ],
+    "CHF": [
+        "Diastolic CHF",
+        "PAF",
+        "HF",
+        "HA",
+        "CHF",
+        "severe CHF",
+        "ARF",
+        "for CHF management",
+        "IPF",
+        "Systolic CHF",
+        "CHF/pulmonary",
+        "ARF on CRF"
+    ],
+    "reaction to ciprofloxacin": [],
+    "Diagnosis": [],
+    "Cellulitis": [],
+    "Repiratory failure": [
+        "Acute renal failure",
+        "Respiratory failure",
+        "Renal failure",
+        "Respiratory distress"
+    ],
+    "otitis externa": [],
+    "HCV": [
+        "HCV cirrhosis",
+        "HCV"
+    ],
+    "Perimesencaphalic hemorrhage": [],
+    "alcohol intoxication compounded by librium intoxication": [
+        "ethylene glycol intoxication"
+    ],
+    "Paroxysmal Atrial [**Hospital 9343**]": [],
+    "amoxicillin anaphylaxis": [
+        "anaphylaxis"
+    ],
+    "PRIMARY": [
+        "PROPHYLAXIS",
+        "PRURITIC RASH"
+    ],
+    "Hemophagocytic lymphohistiocytosis": [
+        "hemophagocytic lymphohistiocytosis"
+    ],
+    "anemia of chronic disease": [
+        "chronic anemia",
+        "acute on chronic renal failure"
+    ],
+    "diabetes": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "rejection",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "stroke",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "infection",
+        "AIDS",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "dystonia": [
+        "dystonia",
+        "dyspepsia"
+    ],
+    "spinal stenosis": [],
+    "Community Acquired Pneumonia": [
+        "Hospital Acquired Pneumonia",
+        "Health Care Associated Pneumonia"
+    ],
+    "Left MCA infarct": [
+        "Left frontoparietal stroke"
+    ],
+    "Altered mental status secondary to excessive narcotics": [
+        "Toxic shock syndrome with septic shock"
+    ],
+    "disorder": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "tuberculosis",
+        "rejection",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "RA",
+        "maintenance",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "replacement",
+        "coughing"
+    ],
+    "Thrombocytopenia": [
+        "Thrombocytopenia"
+    ],
+    "and right subarachnoid hemorrhage.": [
+        "retroperitoneal hematoma",
+        "intracranial hemorrhage",
+        "pulmonary embolism in the right lower lobe",
+        "left sylvian fissure subarachnoid hemorrhage",
+        "erythema and tenderness around the left SVG harvest site",
+        "left upper lobe pneumonia"
+    ],
+    "stage III": [
+        "grade III"
+    ],
+    "Vertebral osteomyelitis": [
+        "cervical osteomyelitis",
+        "Osteomyelitis"
+    ],
+    "Gastric outlet obstruction s/p duodenal stent placement": [
+        "uppger GI bleeding from a stomach ulcer"
+    ],
+    "Acute renal failure- on arrival creatinine peaked at 8.9,": [],
+    "Streptococcs Viridans bacteremia": [
+        "Enterococcus Bacteremia",
+        "Enterococcal/Enterobacter bacteremia",
+        "Streptococcus Viridans bacteremia",
+        "Enterococcal bacteremia",
+        "MSSA bacteremia"
+    ],
+    "Neuroleptic malignant syndrome": [
+        "neuroleptic malignant syn",
+        "Toxic shock syndrome with septic shock",
+        "neuroleptic malignant syndrome"
+    ],
+    "MSSA bacteremia and sepsis": [
+        "MRSA lung abscess",
+        "MSSA infection",
+        "MRSA bacteremia",
+        "MRSA infection",
+        "ventilator associated pneumonia with MRSA",
+        "Toxic shock syndrome with septic shock",
+        "Gram negative septicemia due to cholangitis",
+        "Peripheral IV-associated MSSA bacteremia",
+        "MSSA bacteremia",
+        "high grade S aureus bacteremia"
+    ],
+    "Paroxysmal atrial fibrillation": [
+        "paroxysmal atrial fibrillation",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "Pulmonary empyema": [
+        "Pulmonary Embolism",
+        "Pulmonary edema",
+        "Pulmonary emboli",
+        "Pulmonary tuberculosis",
+        "Pulmonary embolism",
+        "Pulmonary Emboli"
+    ],
+    "Hypoxia after sedation for an elective ERCP": [],
+    "Drug Rash": [],
+    "Right sideded frontal brain masses": [
+        "Left frontoparietal stroke"
+    ],
+    "Choledocholithiasis": [],
+    "Calcified aorta": [],
+    "agitation\"": [
+        "breakthrough agitation",
+        "severe agitation",
+        "HRs recovering",
+        "agitation anxiety",
+        "her agitation",
+        "fluid status",
+        "worsening agitation",
+        "worsening infection",
+        "increasing glucose levels",
+        "behavioral agitation",
+        "avoid resistance",
+        "dressing changes",
+        "possible pneumonia"
+    ],
+    "Hepatocellular carcinoma": [
+        "hepatocellular carcinoma",
+        "Hepatocellular Carcinoma"
+    ],
+    "tremors secondary to prograf toxicity": [
+        "edema from fluid retention",
+        "promote productive coughing",
+        "responsive to sternal rub only",
+        "narcotic induced respiratory distress"
+    ],
+    "congestive heart failure": [
+        "Chronic diastolic heart failure",
+        "chronic obstructive pulmonary disease",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "coronary artery disease",
+        "symptoms of congestive heart failure",
+        "recurrent chest pain",
+        "chronic obstructive pulmonary disease flare",
+        "pleuritic chest pain",
+        "heart failure",
+        "diastolic heart failure",
+        "cardiogenic shock",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "chronic chest pain"
+    ],
+    "Ischemic Cecum": [
+        "Ischemic CVA"
+    ],
+    "Hypertensive urgency": [],
+    "Drug sensitivy skin rash": [],
+    "Cardiac arrest": [],
+    "Primary Diagnoses": [],
+    "hyperbilirubinemia": [
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypoxic",
+        "hypotensive",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "significant hypothyroidism",
+        "hypocoaguable",
+        "hypotension",
+        "hypothyroidism"
+    ],
+    "tramatic left fibular fx with migration": [],
+    "Respiratory failure": [
+        "Hypercarbic respiratory distress",
+        "Acute renal failure",
+        "Respiratory failure",
+        "Respiratory distress"
+    ],
+    "Pericarditis": [],
+    "hyperglycemia": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "hypertensive",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypoglycemia protocol",
+        "hypotensive",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "hypotension",
+        "hypoxia",
+        "hypothyroidism",
+        "hypoglycemic"
+    ],
+    "chronic diastolic": [
+        "diastolic heart failure",
+        "chronic diastolic CHF"
+    ],
+    "Left bundle branch block": [],
+    "Hypertension (high blood pressure).": [
+        "blood pressure support",
+        "blood glucose levels were >200",
+        "tight BP control",
+        "adequate blood pressure control",
+        "high potassium levels",
+        "elevated blood glucose levels",
+        "blood pressure control",
+        "BP was elevated",
+        "blood pressure management",
+        "high blood pressure",
+        "systolic blood pressure greater than 130",
+        "low blood pressure"
+    ],
+    "Diffuse Large B Cell Lymphoma": [
+        "\"Non-Hodgkins T cell lymphoma\""
+    ],
+    "s/p CABG": [
+        "CAD s/p CABG"
+    ],
+    "Possible C diff colitis": [
+        "h/o colitis",
+        "C. diff colitis",
+        "C Diff colitis",
+        "Clostridium difficile colitis",
+        "a presumed C. difficile colitis"
+    ],
+    "Hyperglycemia secondary to medications": [],
+    "Adrenal crisis": [
+        "adrenal crisis"
+    ],
+    "Upper Gastrointestinal Bleed": [
+        "GI Bleed"
+    ],
+    "rosacea": [],
+    "Post-op anemia due to blood loss": [
+        "prevent deep vein thrombosis (blood clots)",
+        "edema from fluid retention",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure"
+    ],
+    "Chronic Diastolic Heart Failure": [
+        "Chronic diastolic heart failure",
+        "Congestive Heart Failure",
+        "Acute diastolic heart failure"
+    ],
+    "multiple myeloma,": [
+        "Multiple myeloma",
+        "multiple myeloma"
+    ],
+    "attributed to broad spectrum antibiotic usage": [
+        "non-Pseudomonas gram negative rods",
+        "community acquired pneumonia",
+        "bacterial infection"
+    ],
+    "Severe protein-calorie malnutrition": [
+        "Toxic shock syndrome with septic shock"
+    ],
+    "Fever": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "paranoid",
+        "AIDS",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation",
+        "coughing"
+    ],
+    "chronic pain": [
+        "back pain",
+        "pain in between",
+        "post-op pain",
+        "for pain",
+        "the pain",
+        "diffuse body pain",
+        "his chronic pain",
+        "musculoskeletal pain",
+        "leg pain",
+        "chronic severe knee pain",
+        "abdominal pain",
+        "pain relief",
+        "aggressive pain control",
+        "persistent abdominal pain",
+        "flank pain",
+        "breakthrough pain",
+        "severe back pain",
+        "low back pain",
+        "neck pain",
+        "pain",
+        "chronic left flank pain",
+        "pain management",
+        "abdominal discomfort",
+        "neck/back pain",
+        "for pain management",
+        "chronic anxiety",
+        "Chronic Pain",
+        "myofascial pain syndrome",
+        "severe pain",
+        "chronic pain",
+        "mouth pain",
+        "long-acting pain control",
+        "lumbar back pain",
+        "pain control",
+        "chest pain",
+        "chronic back pain",
+        "nerve pain",
+        "limb pain",
+        "her pain",
+        "anxiety disorders",
+        "chronic R thumb pain",
+        "moderate pain",
+        "dry cough",
+        "chronic chest pain",
+        "mouth/throat pain"
+    ],
+    "Right vocal cord paralysis": [],
+    "hypothyroidism": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "hypertensive",
+        "hypoxemic",
+        "hypoglycemia",
+        "hypotensive",
+        "hypokalemia",
+        "primary hypothyroidism",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "significant hypothyroidism",
+        "hypocoaguable",
+        "hypotension",
+        "hypothyroidism",
+        "Hypothyroidism"
+    ],
+    "PCP [**Name Initial (PRE) 1064**]": [],
+    "Thrombosed femoral-femoral graft and iliofemoral graft with": [],
+    "left foot": [
+        "left sided CP",
+        "left eye pain"
+    ],
+    "Post-op Hypotension / Hypovolemia": [],
+    "Diabetic foot ulcer infection": [
+        "Diabetes mellitus II"
+    ],
+    "stab wound": [
+        "frontal headache",
+        "leg swelling",
+        "post-op pain",
+        "heart burn",
+        "chest pressure",
+        "flank pain",
+        "ear wax",
+        "wound culture",
+        "wound cultures",
+        "throat swelling",
+        "sternal drainage",
+        "severe pain",
+        "foot infection",
+        "lip swelling",
+        "fluid status",
+        "dressing changes"
+    ],
+    "HA anastomosis bleeding": [],
+    "heparin induced thrombocytopenia": [],
+    "gastroesophageal reflux": [
+        "Gastroesophageal reflux"
+    ],
+    "osteoporosis": [
+        "osteoarthritis",
+        "osteopenia",
+        "prevent osteoporosis"
+    ],
+    "likely secondary to Integrillin": [],
+    "COPB/chronic bronchitis/possible asbestosis": [],
+    "Myelodysplastic syndrome": [],
+    "Mitral regurgitation": [],
+    "MSSA epidural abscesses": [
+        "MRSA lung abscess",
+        "MRSA bacteremia",
+        "MSSA bacteremia"
+    ],
+    "carotid": [],
+    "Community-acquired pneumonia": [
+        "Pulmonary tuberculosis",
+        "community-acquired pneumonia"
+    ],
+    "Type I DM": [
+        "Type II Diabetes",
+        "type II DM",
+        "type 2 DM",
+        "Type 2 DM",
+        "Type I DM",
+        "Type II DM"
+    ],
+    "2. Leukodystrophy": [],
+    "uncontrolled with complications": [
+        "active bleeding"
+    ],
+    "acute respiratoy failure": [
+        "ventilator associated pneumonia",
+        "septic shock",
+        "dyspnea and cough",
+        "mild acute renal failure",
+        "respiratory infection",
+        "respiratory fatigue",
+        "acute renal failure",
+        "improve ventilation",
+        "respiratory status",
+        "promote productive coughing",
+        "worsening multifocal pneumonia",
+        "cardiogenic shock",
+        "poor respiratory effort",
+        "left upper lobe pneumonia",
+        "a multifocal pneumonia",
+        "respiratory distress",
+        "acute on chronic renal failure",
+        "narcotic induced respiratory distress",
+        "possible multifocal pneumonia"
+    ],
+    "Giant paraesophageal hernia.": [],
+    "Wound Dehiscence": [],
+    "Incisional hernia": [],
+    "Community Acquired PNA": [
+        "Hospital Acquired Pneumonia"
+    ],
+    "Chronic diastolic heart failure; EF 50%": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "diastolic heart failure",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure"
+    ],
+    "ARF": [
+        "PAF",
+        "HF",
+        "CHF",
+        "ARF",
+        "ARDS treatment",
+        "IPF",
+        "CHF/pulmonary",
+        "ARF on CRF"
+    ],
+    "Radiation therapy and cetuximab chemotherapy.": [],
+    "Diet-controlled diabetes": [],
+    "Myocardial infarction": [],
+    "End Stage liver disease": [],
+    "Psoriatic Arthritis": [
+        "Psoriasis with Arthropathy",
+        "Psoriatic arthritis",
+        "Rheumatoid Arthritis",
+        "Rheumatoid arthritis"
+    ],
+    "Ischemic colitis": [
+        "Neutropenic colitis",
+        "ischemic colitis"
+    ],
+    "UTI,yeast": [
+        "the UTI",
+        "UTI",
+        "chronic UTI",
+        "gram-negative UTI",
+        "complicated UTI",
+        "a UTI"
+    ],
+    "post-op blood loss anemia": [
+        "prevent deep vein thrombosis (blood clots)",
+        "a potential blood clot in your lungs",
+        "blood in OG tube",
+        "post procedure pain"
+    ],
+    "Delirium secondary to medications": [],
+    "history of babesiosis": [
+        "history of a.fib"
+    ],
+    "Extensive liver lesions (presumably recurrent hepatocellular": [
+        "early multifocal PNA"
+    ],
+    "the posterior membranous wall": [
+        "minor anal mucosal tear"
+    ],
+    "HCV cirrhosis": [
+        "HCV cirrhosis",
+        "HCV"
+    ],
+    "Plasmablastic Lymphoma": [],
+    "PSH: IVC filter ([**10-23**])": [],
+    "ALS": [],
+    "Diabetic Ketoacidosis": [
+        "Diabetic Ketoacidosis"
+    ],
+    "thrombus s/p thrombecomy/embolectomy": [],
+    "and aggressive IV volume repletion resuting in pulmonary edema": [
+        "patchy infiltates concerning for biliary sepsis",
+        "to maintain adequate MAP and urine output",
+        "volume repletion",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "responsive to sternal rub only"
+    ],
+    "thrombocytopenia": [
+        "thrombocytopenia"
+    ],
+    "metastatic lung cancer": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "nonsmall cell lung cancer with brain metastasis",
+        "stage I breast cancer",
+        "metastatic adenocarcinoma",
+        "metastatic disease",
+        "metastatic melanoma",
+        "lung disease flare",
+        "locally advanced pancreatic CA",
+        "right sided stage III laryngeal cancer",
+        "non small cell lung cancer lung carcinoma",
+        "non-small cell lung cancer"
+    ],
+    "inferior MI with CA occlusion": [
+        "CAD with h/o MI",
+        "STE in inferior leads"
+    ],
+    "End Stage Renal Disease": [],
+    "Methicillin sensitive staphylococcus aureus urinary tract": [
+        "high grade S aureus bacteremia"
+    ],
+    "Post-obstructive pneumonia": [],
+    "Coronary Artery disese s/p CABG": [
+        "CAD s/p 1 vessel CABG",
+        "CAD s/p CABG"
+    ],
+    "Complicated by large retroperitoneal bleed": [],
+    "hemmorahge": [],
+    "s/p Y stent placement [**4-25**] and #6": [],
+    "splenic hemorrhage": [
+        "diffuse alveolar hemorrhage",
+        "retroperitoneal hematoma",
+        "intracranial hemorrhage",
+        "hematoma",
+        "hemorrhoid pain",
+        "superficial phlebitis",
+        "hemorrhage",
+        "hemorrhoids"
+    ],
+    "DKA": [
+        "DM II",
+        "CMP",
+        "DM1",
+        "DM2",
+        "DM",
+        "DI/endocrine",
+        "DMII",
+        "DIC",
+        "DI"
+    ],
+    "Pleural Effusion": [],
+    "\"Crohns Disease\"": [
+        "\"Burkitts Lymphoma\"",
+        "\"Graves disease\"",
+        "\"presumed Wernickes\"",
+        "\"Burkitts lymphoma\"",
+        "\"Barretts Esophagus\"",
+        "Crohns disease",
+        "\"Crohns Disease\"",
+        "\"Crohns disease\"",
+        "\"Parkinsons\"",
+        "\"Crohns\"",
+        "\"Parkinsons disease\"",
+        "Crohns Disease"
+    ],
+    "Alcohol Withdrawal": [],
+    "5FU) chemotherapy.": [
+        "chemotherapy regimen"
+    ],
+    "Upper GI bleed secondary to [**Doctor First Name **]-[**Doctor Last Name **] tear": [],
+    "pleural effusion": [
+        "pleural effusions",
+        "bilateral pleural effusions"
+    ],
+    "CHF with diastolic dysfunction": [
+        "Diastolic CHF",
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "diastolic heart failure",
+        "Systolic CHF",
+        "Diastolic dysfunction",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF"
+    ],
+    "Acute kidney injury": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Acute renal insufficiency",
+        "Acute diastolic heart failure",
+        "Renal failure",
+        "Acute lung injury",
+        "Acute Kidney Injury on chronic kidney disease",
+        "Acute Kidney Injury"
+    ],
+    "Multifocal Pneumonia": [
+        "Multifocal PNA"
+    ],
+    "Hypothyroidism": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypokalemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypoglycemia",
+        "Hypernatremia",
+        "Hypothyroid",
+        "Hyponatremia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "hypothyroidism",
+        "Hypothyroidism"
+    ],
+    "hyper aldosteronism": [],
+    "elevated LFTs": [],
+    "Fall": [
+        "bleed",
+        "CP"
+    ],
+    "CAD-s/p PCI and multiple coronary stents [**2139**]/[**2140**]/[**2142**]": [
+        "CAD s/p 1 vessel CABG",
+        "CAD s/p CABG",
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "Acute tubular necrosis (ATN) causing renal failure": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "Acute renal insufficiency",
+        "Acute Kidney Injury on chronic kidney disease",
+        "acute on chronic renal failure"
+    ],
+    "\"s/p PTCA/stent [**41**]\"": [
+        "\"Parkinsons\"",
+        "\"TIAs\""
+    ],
+    "Drug Related Esosinophilia and Systemic Symptoms": [],
+    "Left frontal watershed cerebral infarct": [
+        "Left frontoparietal stroke"
+    ],
+    "acute diastolic heart failure": [
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "coronary artery disease",
+        "symptoms of congestive heart failure",
+        "recurrent chest pain",
+        "chronic obstructive pulmonary disease flare",
+        "mild acute renal failure",
+        "pleuritic chest pain",
+        "low ejection fraction",
+        "acute renal failure",
+        "heart failure",
+        "severe CHF",
+        "secondary cardiovascular prevention",
+        "diastolic heart failure",
+        "cardiogenic shock",
+        "Acute diastolic heart failure",
+        "restrictive lung disease",
+        "rapid atrial fibrillation",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "acute on chronic renal failure",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation",
+        "chronic chest pain"
+    ],
+    "Small bowel leakage and cecal leakage enterocutaneous fistula": [],
+    "headache": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "intercourse",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "restless",
+        "MG",
+        "Fever",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "inflammation",
+        "coughing"
+    ],
+    "Atypical chest pain": [
+        "for chest pain",
+        "recurrent chest pain",
+        "pleuritic chest pain",
+        "Chest Pain"
+    ],
+    "\"Primary: Korsakoffs psychosis": [
+        "\"Burkitts lymphoma\""
+    ],
+    "Acute gallstone pancreatitis": [],
+    "Heparin-induced antibody pulmonary embolism": [
+        "Pulmonary embolism"
+    ],
+    "dysmorphic blood cells": [
+        "low blood counts",
+        "blood clots)",
+        "blood counts",
+        "dystonic reaction",
+        "blood thinner"
+    ],
+    "Past medical history:": [],
+    "Biliary stenting (ERCP)": [],
+    "Right frontal cystic mass": [],
+    "PRIMARY DIAGNOSES:": [],
+    "Aortic Dissection / Type B": [],
+    "aortic stenosis": [],
+    "MRSA/Pseudomonas Pneumonia": [
+        "MRSA bacteremia",
+        "MRSA infection",
+        "MRSA",
+        "MSSA bacteremia",
+        "MRSA PNA"
+    ],
+    "Non-small cell lung carcinoma": [
+        "nonsmall cell lung cancer with brain metastasis",
+        "non small cell lung cancer lung carcinoma",
+        "non-small cell lung cancer"
+    ],
+    "Preoperative Urinary Tract Infection": [
+        "Urinary Tract Infection"
+    ],
+    "Skin rash": [
+        "Maculo papular rash",
+        "body rash",
+        "Skin lesions"
+    ],
+    "Bacterial pneumonia": [
+        "Bacteremia",
+        "Pulmonary tuberculosis",
+        "Fluid retention",
+        "Nasal congestion",
+        "Septic shock",
+        "Guaiac positive stool"
+    ],
+    "Diffused allergic rash": [],
+    "Health care Associated Pneumonia": [
+        "Hospital Acquired Pneumonia",
+        "Health Care Associated Pneumonia"
+    ],
+    "persistent": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "maintenance",
+        "fungus",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "Lesions on brain MRI (acute stroke vs. infectious vs.": [],
+    "Cardiopulmonary Arrest": [],
+    "Respiratory failure requiring ventilatory support": [
+        "Respiratory failure"
+    ],
+    "Intraparenchymal hemorrhage": [
+        "intracranial hemorrhage"
+    ],
+    "colon polyps": [],
+    "Constipation": [
+        "Constipation"
+    ],
+    "Biliary obstruction s/p IR placed drain": [
+        "RLL PNA consistent with evolving PNA",
+        "A. Fib with RVR"
+    ],
+    "Deep Vein Thrombosis of subclavian vein": [],
+    "Aortic Stenosis": [],
+    "Acquired immune deficiency syndrome": [],
+    "? AVM in lingula": [],
+    "Chronic Systolic Heart Failure": [
+        "Chronic diastolic heart failure",
+        "Congestive Heart Failure"
+    ],
+    "hypertension/hyperlipidemia": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypertensive",
+        "hypotensive",
+        "hyperglycemia",
+        "pulmonary hypertension",
+        "hypotension",
+        "hypertensive crisis",
+        "hypothyroidism"
+    ],
+    "large abdominal wound": [
+        "abdominal discomfort"
+    ],
+    "DM1": [
+        "DM II",
+        "DM1",
+        "DM2",
+        "DM",
+        "DMII"
+    ],
+    "Hyperglycemia = DM I": [
+        "Diabetes: Type II"
+    ],
+    "bacterial": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "tuberculosis",
+        "gas",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "yeast",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "maintenance",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "discomfort",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "chronic obstructive lung disease": [
+        "Obstructive/restrictive lung disease",
+        "chronic obstructive pulmonary disease",
+        "chronic obstructive pulmonary disease flare",
+        "restrictive lung disease",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Hypotensive episode": [
+        "Hypotension",
+        "Hypercarbic respiratory distress",
+        "Fluid retention",
+        "Nasal congestion"
+    ],
+    "Acute on chronic kidney insufficiency": [
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Acute renal insufficiency",
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure",
+        "Acute Kidney Injury on chronic kidney disease",
+        "ARF on CRF",
+        "acute on chronic renal failure"
+    ],
+    "Gait instability": [
+        "Fluid retention"
+    ],
+    "Cardiorespiratory Arrest": [],
+    "Rectus sheath hematoma in setting of anticoagulation": [
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "elev. chol.": [],
+    "Atrial Fibrillation with RVR": [
+        "Afib with RVR",
+        "control your rapid atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "Atrial Fibrillation with RVR",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "AF with RVR"
+    ],
+    "severe necrotizing haemorrhagic pancreatitis": [],
+    "History of DVT on anticoagulation": [
+        "prior history of PE",
+        "History of DVT"
+    ],
+    "Stroke": [],
+    "HCC": [
+        "HCV"
+    ],
+    "s/p ST elevation myocardial infarction": [
+        "post myocardial infarction"
+    ],
+    "atrial fibrilation": [
+        "paroxysmal atrial fibrillation",
+        "Atrial fibrillation",
+        "Paroxysmal atrial fibrilation",
+        "Paroxysmal atrial fibrillation",
+        "ventricular fibrillation",
+        "Atrial Fibrillation",
+        "rapid atrial fibrillation",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "Coronary Artery Disease": [
+        "coronary artery disease",
+        "Coronary artery disease"
+    ],
+    "small subdural and subarachnoid hemorrhages": [
+        "intracranial hemorrhage",
+        "left sylvian fissure subarachnoid hemorrhage"
+    ],
+    "resistance.": [
+        "breakthrough agitation",
+        "line infection",
+        "fever.",
+        "yeast infection",
+        "severe infection",
+        "resistant organisms",
+        "avoid resistance"
+    ],
+    "Diastolic Congestive heart failure": [
+        "Diastolic CHF",
+        "Chronic diastolic heart failure",
+        "congestive heart failure",
+        "mild congestive heart failure",
+        "symptoms of congestive heart failure",
+        "diastolic heart failure",
+        "Congestive Heart Failure",
+        "Systolic CHF",
+        "Diastolic dysfunction",
+        "Acute diastolic heart failure",
+        "chronic diastolic CHF",
+        "uncompensated congestive heart failure",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "GI bleed secondary to supratherapeutic INR and antral erosions.": [
+        "infection in your GI tract",
+        "uppger GI bleeding from a stomach ulcer",
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "Gram negative septicemia due to cholangitis",
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "fenestrated cuffless trach": [],
+    "Fractured left ankle": [],
+    "Post-op fever": [],
+    "s/p orthotopic liver transplant": [
+        "orthotopic liver transplant"
+    ],
+    "Diabetes Mellitus type 2": [
+        "Type II Diabetes",
+        "Diabetes Mellitus",
+        "Diabetes type II",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus II",
+        "Diabetes mellitus type 2",
+        "Diabetes: Type II",
+        "Diabetes mellitus"
+    ],
+    "Secondary: multiple sclerosis": [
+        "Multiple sclerosis"
+    ],
+    "Difficult to control sugars": [
+        "to control your sugars"
+    ],
+    "Peripheral vascular disease": [
+        "Coronary artery disease"
+    ],
+    "cirrhosis secondary to autoimmune hepatitis status post TIPS": [
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "to prevent embolic stroke from known LV thrombus"
+    ],
+    "Type 2 diabetes": [
+        "Type II Diabetes",
+        "type 2 DM",
+        "Type 2 DM",
+        "Diabetes type II",
+        "Diabetes Mellitus Type II",
+        "Diabetes mellitus type 2",
+        "Diabetes: Type II",
+        "Type 2 DM: Blood sugars"
+    ],
+    "Urinary tract infection": [
+        "urinary tract infection",
+        "Urianary tract infection",
+        "urinary infection",
+        "positive urinary tract infection",
+        "Urinary tract infection"
+    ],
+    "Right Knee Septic arthritis": [],
+    "atrial flutter": [
+        "paroxysmal atrial fibrillation",
+        "rapid atrial fibrillation",
+        "atrial tachycardia",
+        "atrial fibrillation",
+        "chronic atrial fibrillation",
+        "chronic atrial  fibrillation"
+    ],
+    "anti-pyschotics": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "RA",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "inflammation",
+        "coughing"
+    ],
+    "Vocal chord abnormality": [],
+    "bilateral extremity ischemia.": [
+        "lower extremity edema",
+        "right lower extremity DVT"
+    ],
+    "enterobacter pneumonia with pleural effusion s/p thorocentesis": [
+        "bilateral pleural effusions"
+    ],
+    "AML c/b GVHD": [
+        "AML with history of GVHD"
+    ],
+    "Duodenal Ulcer": [],
+    "hyperlipidemia": [
+        "hypertension",
+        "hyperkalemia",
+        "hypercholesterol",
+        "hypernatremia",
+        "hypovolemia",
+        "hyponatremic",
+        "hyperkalemic",
+        "hypertensive",
+        "dyslipidemia",
+        "hypoglycemia",
+        "hypokalemia",
+        "hyperglycemia",
+        "hypothyroid",
+        "hyponatremia",
+        "hypocoaguable",
+        "hypotension",
+        "hypothyroidism"
+    ],
+    "Coronary artery disease s/p CABG": [
+        "CAD s/p 1 vessel CABG",
+        "coronary artery disease",
+        "CAD s/p CABG",
+        "Coronary artery disease"
+    ],
+    "Pulmonary Edema": [
+        "Pulmonary Embolism",
+        "Pulmonary edema",
+        "Pulmonary emboli",
+        "Pulmonary embolism",
+        "Pulmonary Emboli"
+    ],
+    "Patent foramen ovale (hole in heart).": [],
+    "\"Confusion possibly from Wernickes\"": [
+        "\"presumed Wernickes\"",
+        "\"Parkinsons\""
+    ],
+    "mellitis plus hypothyroidism": [
+        "primary hypothyroidism",
+        "significant hypothyroidism",
+        "hypothyroidism"
+    ],
+    "Beta lactam allergy (likely) with drug eruption (rash)": [
+        "headache associated with sinusitis",
+        "bronchospasm from reactive airways disease",
+        "contact dermatitis in groin"
+    ],
+    "Cirrhosis": [
+        "Hepatitis C Cirrhosis",
+        "Cirrhosis"
+    ],
+    "Acute Renal Failure": [
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "Renal Insufficiency",
+        "Acute renal insufficiency",
+        "Congestive Heart Failure",
+        "Acute Renal Failure",
+        "Acute Kidney Injury"
+    ],
+    "Postoperative Bleeding/Pericardial Effusion - s/p Re-exploration": [],
+    "Peripheral arterial disease": [
+        "Coronary artery disease"
+    ],
+    "hemoptysis": [],
+    "asthma": [
+        "asthma exacerbation",
+        "asthma",
+        "asthma flare"
+    ],
+    "ARF postoperative with normalization befor DC": [],
+    "IVH": [],
+    "Allergic reaction likely due to peanuts (passive transfer from": [],
+    "latent TB?": [
+        "latent TB",
+        "septic joints",
+        "TB treatment",
+        "active tuberculosis",
+        "TB",
+        "TB therapy"
+    ],
+    "Hypotension secondary to medications and dialysis": [
+        "to control phosphorus because of kidney failure",
+        "to control calcium and phosphorus because of kidney failure"
+    ],
+    "Right parietal brain mass": [
+        "Left frontoparietal stroke"
+    ],
+    "R adrenal mass": [
+        "adrenal crisis",
+        "R flank pain",
+        "breast CA"
+    ],
+    "probably NSAID-induced": [],
+    "Urinary Tract Infection": [
+        "Urinary Tract Infection"
+    ],
+    "Intramural Aortic Thrombus": [],
+    "Idiopathic spondylarthropathy": [],
+    "Pulmonary Embolism with history of DVT and IVC filter": [
+        "AML with history of GVHD",
+        "prior history of PE",
+        "to prevent embolic stroke from known LV thrombus",
+        "History of DVT"
+    ],
+    "Acute Kidney Injury": [
+        "Acute renal insufficiency",
+        "Acute Kidney Injury on chronic kidney disease",
+        "Acute Renal Failure",
+        "Acute Kidney Injury"
+    ],
+    "history of charchot feet,s/p multiple left foot": [
+        "left sided plank pain"
+    ],
+    "Tracheomalacia": [
+        "Thrombocytopenia",
+        "Trabeculectomy"
+    ],
+    "Pneumonia": [
+        "pneumonitis",
+        "Pneumonia"
+    ],
+    "DM": [
+        "DM II",
+        "DM1",
+        "DM2",
+        "DM",
+        "DI/endocrine",
+        "DMII",
+        "DIC",
+        "DI"
+    ],
+    "Right-sided colitis": [],
+    "Spinal Stenosis": [],
+    "Status post clipping of cerebral aneurysm in [**2167**] at the [**Hospital1 756**]": [],
+    "Vocal Cord Paralysis": [],
+    "LGIB s/p colectomy": [
+        "h/o colitis"
+    ],
+    "Heparin induced thrombocytopenia": [],
+    "Pseudoaneurysm of Aortic Arch with Endoleak": [],
+    "s/p tracheoplasty": [],
+    "New onset Atrial fibrillation in setting of illness": [
+        "control your rapid atrial fibrillation"
+    ],
+    "Benign prostatic hypertrophy": [],
+    "Pleural effusion": [
+        "pleural effusions",
+        "bilateral pleural effusions"
+    ],
+    "Hypertension": [
+        "Hypotension",
+        "Hypertension",
+        "Hyperlipidemia",
+        "Hypercalcemia",
+        "Hyperkalemia",
+        "Hyperparathyroidism",
+        "Hypernatremia",
+        "Hypoxia",
+        "Hypercholesterolemia",
+        "Hyperglycemia",
+        "Hypothyroidism",
+        "Pulmonary hypertension"
+    ],
+    "Duodenitis with hemorage": [
+        "uppger GI bleeding from a stomach ulcer"
+    ],
+    "Retroperitoneal hematoma": [
+        "retroperitoneal hematoma"
+    ],
+    "primary": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "depression",
+        "N",
+        "paranoid",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "heart",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "Severe bipolar disorder": [
+        "Bipolar disorder",
+        "Severe bipolar disorder"
+    ],
+    "Gastric Hemorage": [],
+    "acute delirium": [
+        "terminal delirium",
+        "delirious",
+        "delirium"
+    ],
+    "Aortic Insufficiency - s/p Repair": [],
+    "renal failure": [
+        "worsening renal function",
+        "mild acute renal failure",
+        "Acute renal failure",
+        "Acute on chronic renal failure",
+        "acute renal failure",
+        "kidney function",
+        "renal failure",
+        "Renal failure",
+        "renal transplant",
+        "acute on chronic renal failure"
+    ],
+    "Coronary artery disease s/p coronary artery bypass graft x 5": [],
+    "Increased seizure frequency": [
+        "seizure activity",
+        "recurrent seizures"
+    ],
+    "Persistent Thrombocytopenia": [],
+    "Expired": [],
+    "blind": [
+        "nausea/",
+        "screaming",
+        "comfort",
+        "fever",
+        "confusion",
+        "A-paced",
+        "intercourse",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "agitation",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "wound",
+        "agitated",
+        "stomach",
+        "RA",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "MG",
+        "Fever",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "resolved": [
+        "nausea/",
+        "screaming",
+        "fever",
+        "confusion",
+        "A-paced",
+        "A-fib",
+        "seizure",
+        "pneumonia",
+        "anxiety",
+        "anti-epileptic",
+        "bleed",
+        "seized",
+        "sleep",
+        "breakthrough",
+        "irritation",
+        "fluid",
+        "flu",
+        "chronic",
+        "BP",
+        "a-fib",
+        "drainage",
+        "nausea",
+        "CP",
+        "cough",
+        "depressed",
+        "agitated",
+        "maintenance",
+        "fungus",
+        "N",
+        "paranoid",
+        "infection",
+        "restless",
+        "T>101.4",
+        "A-fibb",
+        "dental",
+        "headache",
+        "withdrawal",
+        "anti-coagulation",
+        "bleeding",
+        "groin",
+        "paralyzed",
+        "anti-seizure",
+        "anxious",
+        "rigid",
+        "diabetes",
+        "fish",
+        "sob",
+        "inflammation",
+        "coughing"
+    ],
+    "Chronic obstructive pulmonary disease": [
+        "Chronic diastolic heart failure",
+        "Obstructive/restrictive lung disease",
+        "chronic obstructive pulmonary disease",
+        "chronic obstructive pulmonary disease flare",
+        "Acute diastolic heart failure",
+        "restrictive lung disease",
+        "Chronic obstructive pulmonary disease"
+    ],
+    "Pleuritis": [
+        "Pneumonia"
+    ],
+    "Methemaglobinemia": [
+        "Methemeglobinemia"
+    ],
+    "Pulmonary Hypertension": [
+        "Hypertension",
+        "Hyperparathyroidism",
+        "Hypernatremia",
+        "Hypercholesterolemia",
+        "Pulmonary hypertension"
+    ],
+    "Deceased": [],
+    "Health care associated bacterial pneumonia": [
+        "Ventilator associated pneumonia",
+        "Health Care Associated Pneumonia",
+        "Hospital acquired PNA"
+    ],
+    "Left intraparenchymal hemorrhage": [],
+    "mild liver transplant rejection": [
+        "heart burn",
+        "acute alcoholic hepatitis",
+        "mild acute renal failure",
+        "orthotopic liver transplant",
+        "maintenance of transplanted kidney",
+        "for CHF management",
+        "foot infection",
+        "to treat the acute cellular rejection"
+    ],
+    "Malignant pleural effusion": [
+        "pleural effusions",
+        "bilateral pleural effusions"
+    ],
+    "Right hydronephrosis": [],
+    "donor liver)": [
+        "orthotopic liver transplant",
+        "maintenance of transplanted kidney"
+    ],
+    "GI bleed secondary to colonic lesion": [
+        "uppger GI bleeding from a stomach ulcer",
+        "extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head",
+        "Gram negative septicemia due to cholangitis"
+    ],
+    "Gastroparesis": [
+        "Gastroenteritis"
+    ],
+    "Esophogeal Varices with Variceal Bleed": [
+        "Esophageal Varices"
+    ],
+    "Intraventricular hemorrhage": [
+        "intracranial hemorrhage"
+    ],
+    "Secondary:": [],
+    "HIV": [
+        "AIDS",
+        "HIV"
+    ],
+    "Ileostomy takedown": [],
+    "high-degree AV nodal disease s/p permanent pacemaker": [
+        "AV pacemaker",
+        "to prevent embolic stroke from known LV thrombus",
+        "AF with RVR"
+    ],
+    "Anaplastic astrocytoma": [
+        "Astrocytoma"
+    ],
+    "MSSA UTI": [
+        "MSSA infection",
+        "MRSA infection",
+        "gram-negative UTI",
+        "MSSA bacteremia",
+        "Pseudomonas UTI",
+        "complicated UTI"
+    ],
+    "NOS": []
+}

@@ -1,0 +1,23 @@
+def read_txt_file(file_path):
+
+    # actual code
+
+    text = "Content from the original file that is uploaded"
+    return text
+
+
+def process_text(text):
+
+    # actual code will come here
+
+    list_of_primary_diagnosis = ['a', 'b', 'c']
+    return list_of_primary_diagnosis
+
+
+def get_factors(list_of_primary_diagnosis):
+
+    # write code forload json  to a dictonary variable
+
+    # actual code will come here to get factors from json
+    underlying_factors = [ ['f11', 'f12'], ['f21'] ,['f31', 'f32', 'f33', 'f34'] ]
+    return list_of_primary_diagnosis, underlying_factors
